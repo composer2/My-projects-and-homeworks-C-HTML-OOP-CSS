@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InterfacesAndImplementation\bin\Debug\InterfacesAndImplementation.exe.config
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InterfacesAndImplementation\bin\Debug\InterfacesAndImplementation.exe
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InterfacesAndImplementation\bin\Debug\InterfacesAndImplementation.pdb
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InterfacesAndImplementation\obj\Debug\InterfacesAndImplementation.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InterfacesAndImplementation\obj\Debug\InterfacesAndImplementation.exe
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InterfacesAndImplementation\obj\Debug\InterfacesAndImplementation.pdb

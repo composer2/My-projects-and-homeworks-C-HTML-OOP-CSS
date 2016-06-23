@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Money\bin\Debug\Money.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Money\bin\Debug\Money.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Money\bin\Debug\Money.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Money\obj\Debug\Money.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Money\obj\Debug\Money.pdb

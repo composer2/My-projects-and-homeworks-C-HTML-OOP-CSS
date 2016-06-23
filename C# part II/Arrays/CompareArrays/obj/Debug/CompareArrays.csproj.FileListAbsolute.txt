@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Arrays\CompareArrays\bin\Debug\CompareArrays.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\CompareArrays\bin\Debug\CompareArrays.exe
+D:\Visual Studio\Projects\Telerik\Arrays\CompareArrays\bin\Debug\CompareArrays.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\CompareArrays\obj\Debug\CompareArrays.exe
+D:\Visual Studio\Projects\Telerik\Arrays\CompareArrays\obj\Debug\CompareArrays.pdb

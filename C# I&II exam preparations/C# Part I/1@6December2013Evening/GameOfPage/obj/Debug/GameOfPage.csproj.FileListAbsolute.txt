@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\GameOfPage\bin\Debug\GameOfPage.exe.config
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\GameOfPage\bin\Debug\GameOfPage.exe
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\GameOfPage\bin\Debug\GameOfPage.pdb
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\GameOfPage\obj\Debug\GameOfPage.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\GameOfPage\obj\Debug\GameOfPage.exe
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\GameOfPage\obj\Debug\GameOfPage.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\PrintTheASCIItable\bin\Debug\PrintTheASCIItable.exe.config
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\PrintTheASCIItable\bin\Debug\PrintTheASCIItable.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\PrintTheASCIItable\bin\Debug\PrintTheASCIItable.pdb
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\PrintTheASCIItable\obj\Debug\PrintTheASCIItable.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\PrintTheASCIItable\obj\Debug\PrintTheASCIItable.pdb

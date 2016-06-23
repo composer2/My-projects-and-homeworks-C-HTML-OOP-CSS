@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\12sept2013\Tron3D\bin\Debug\Tron3D.exe.config
+D:\Visual Studio\Projects\Telerik\12sept2013\Tron3D\bin\Debug\Tron3D.exe
+D:\Visual Studio\Projects\Telerik\12sept2013\Tron3D\bin\Debug\Tron3D.pdb
+D:\Visual Studio\Projects\Telerik\12sept2013\Tron3D\obj\Debug\Tron3D.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\12sept2013\Tron3D\obj\Debug\Tron3D.exe
+D:\Visual Studio\Projects\Telerik\12sept2013\Tron3D\obj\Debug\Tron3D.pdb

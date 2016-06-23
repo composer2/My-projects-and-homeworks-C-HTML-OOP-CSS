@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.pdb

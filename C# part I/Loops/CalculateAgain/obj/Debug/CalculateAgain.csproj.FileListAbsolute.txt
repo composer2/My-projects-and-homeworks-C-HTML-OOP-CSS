@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Loops\CalculateAgain\bin\Debug\CalculateAgain.exe.config
+D:\Visual Studio\Projects\Telerik\Loops\CalculateAgain\bin\Debug\CalculateAgain.exe
+D:\Visual Studio\Projects\Telerik\Loops\CalculateAgain\bin\Debug\CalculateAgain.pdb
+D:\Visual Studio\Projects\Telerik\Loops\CalculateAgain\obj\Debug\CalculateAgain.exe
+D:\Visual Studio\Projects\Telerik\Loops\CalculateAgain\obj\Debug\CalculateAgain.pdb
+D:\Visual Studio\Projects\Telerik\Loops\CalculateAgain\obj\Debug\CalculateAgain.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\FundamentalsIntroductionToProgramming\Age\bin\Debug\Age.exe.config
+D:\Visual Studio\Projects\FundamentalsIntroductionToProgramming\Age\bin\Debug\Age.exe
+D:\Visual Studio\Projects\FundamentalsIntroductionToProgramming\Age\bin\Debug\Age.pdb
+D:\Visual Studio\Projects\FundamentalsIntroductionToProgramming\Age\obj\Debug\Age.exe
+D:\Visual Studio\Projects\FundamentalsIntroductionToProgramming\Age\obj\Debug\Age.pdb

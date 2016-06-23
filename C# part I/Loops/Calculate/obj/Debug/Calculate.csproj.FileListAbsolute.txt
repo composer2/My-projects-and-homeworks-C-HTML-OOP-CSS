@@ -1,0 +1,10 @@
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\Calculate\bin\Debug\Calculate.exe.config
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\Calculate\bin\Debug\Calculate.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\Calculate\bin\Debug\Calculate.pdb
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\Calculate\obj\Debug\Calculate.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\Calculate\obj\Debug\Calculate.pdb
+D:\Visual Studio\Projects\Telerik\Loops\Calculate\bin\Debug\Calculate.exe.config
+D:\Visual Studio\Projects\Telerik\Loops\Calculate\bin\Debug\Calculate.exe
+D:\Visual Studio\Projects\Telerik\Loops\Calculate\bin\Debug\Calculate.pdb
+D:\Visual Studio\Projects\Telerik\Loops\Calculate\obj\Debug\Calculate.exe
+D:\Visual Studio\Projects\Telerik\Loops\Calculate\obj\Debug\Calculate.pdb

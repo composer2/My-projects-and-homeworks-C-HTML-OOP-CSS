@@ -1,0 +1,2 @@
+Create the following Web page using HTML with external CSS file.
+Note: The images should be PNG with transparent background.

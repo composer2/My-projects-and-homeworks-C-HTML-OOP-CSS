@@ -1,0 +1,43 @@
+table{
+    font-size: 14px;
+    background-color: grey;
+    color: white;
+    text-align: left;
+    font-family: sans-serif;    
+}
+td {
+    padding: 5px 10px 5px 1px;
+}
+.italic{
+    font-style: italic;
+    vertical-align: top;
+    opacity: 0.95;
+}
+.head{
+    font-weight: normal;
+    opacity: 0.7;  
+    font-size: 1.2em;   
+    padding: 0px 5px 0px 1px;     
+}
+.red{
+    color: red;
+    font-weight: 600;
+    padding: 0px 5px 0px 1px;     
+}
+.orange{
+    color: darkorange;
+    font-weight: 600;
+}
+.grey{
+    color: lightgrey;    
+}
+.greenCircle{
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    font-size: 5px;
+    color: lightgreen;
+    background-color: lightgreen;
+   
+}

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\KaspichaniaBoats\bin\Debug\KaspichaniaBoats.exe.config
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\KaspichaniaBoats\bin\Debug\KaspichaniaBoats.exe
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\KaspichaniaBoats\bin\Debug\KaspichaniaBoats.pdb
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.exe
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.pdb

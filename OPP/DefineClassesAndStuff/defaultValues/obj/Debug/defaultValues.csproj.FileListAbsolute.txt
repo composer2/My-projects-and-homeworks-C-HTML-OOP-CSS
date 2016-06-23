@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\defaultValues\bin\Debug\defaultValues.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\defaultValues\bin\Debug\defaultValues.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\defaultValues\bin\Debug\defaultValues.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\defaultValues\obj\Debug\defaultValues.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\defaultValues\obj\Debug\defaultValues.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\defaultValues\obj\Debug\defaultValues.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\defaultValues\bin\Debug\defaultValues.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\defaultValues\obj\Debug\defaultValues.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\defaultValues\obj\Debug\defaultValues.pdb

@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\MathTest\bin\Debug\MathTest.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\MathTest\bin\Debug\MathTest.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\MathTest\bin\Debug\MathTest.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\MathTest\obj\Debug\MathTest.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\MathTest\obj\Debug\MathTest.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\MathTest\bin\Debug\MathTest.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\MathTest\obj\Debug\MathTest.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\MathTest\obj\Debug\MathTest.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+D:\Visual Studio\Projects\Telerik\Loops\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+D:\Visual Studio\Projects\Telerik\Loops\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+D:\Visual Studio\Projects\Telerik\Loops\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+D:\Visual Studio\Projects\Telerik\Loops\DecimalToBinary\obj\Debug\DecimalToBinary.pdb

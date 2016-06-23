@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericClasses\bin\Debug\GenericClasses.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericClasses\obj\Debug\GenericClasses.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericClasses\bin\Debug\GenericClasses.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericClasses\bin\Debug\GenericClasses.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericClasses\obj\Debug\GenericClasses.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericClasses\obj\Debug\GenericClasses.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+D:\Visual Studio\Projects\Telerik\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe
+D:\Visual Studio\Projects\Telerik\Methods\EnglishDigit\bin\Debug\EnglishDigit.pdb
+D:\Visual Studio\Projects\Telerik\Methods\EnglishDigit\obj\Debug\EnglishDigit.exe
+D:\Visual Studio\Projects\Telerik\Methods\EnglishDigit\obj\Debug\EnglishDigit.pdb

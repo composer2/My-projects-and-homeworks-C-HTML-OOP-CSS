@@ -1,0 +1,7 @@
+D:\Visual Studio\Projects\Telerik\14sept2013\Zerg\bin\Debug\Zerg.exe.config
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\Zerg\bin\Debug\Zerg.exe.config
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\Zerg\bin\Debug\Zerg.exe
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\Zerg\bin\Debug\Zerg.pdb
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\Zerg\obj\Debug\Zerg.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\Zerg\obj\Debug\Zerg.exe
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\Zerg\obj\Debug\Zerg.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\MinMaxSumAverage\bin\Debug\MinMaxSumAverage.exe.config
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\MinMaxSumAverage\bin\Debug\MinMaxSumAverage.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\MinMaxSumAverage\bin\Debug\MinMaxSumAverage.pdb
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\MinMaxSumAverage\obj\Debug\MinMaxSumAverage.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\MinMaxSumAverage\obj\Debug\MinMaxSumAverage.pdb

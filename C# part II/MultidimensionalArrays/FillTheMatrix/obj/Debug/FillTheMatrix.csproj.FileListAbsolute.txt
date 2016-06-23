@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\FillTheMatrix\bin\Debug\FillTheMatrix.exe.config
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\FillTheMatrix\bin\Debug\FillTheMatrix.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\FillTheMatrix\bin\Debug\FillTheMatrix.pdb
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\FillTheMatrix\obj\Debug\FillTheMatrix.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\FillTheMatrix\obj\Debug\FillTheMatrix.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\FillTheMatrix\obj\Debug\FillTheMatrix.pdb

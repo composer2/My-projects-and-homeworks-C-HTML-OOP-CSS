@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+D:\Visual Studio\Projects\Telerik\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe
+D:\Visual Studio\Projects\Telerik\Methods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+D:\Visual Studio\Projects\Telerik\Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+D:\Visual Studio\Projects\Telerik\Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb

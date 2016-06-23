@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\NineGagNumbers\bin\Debug\NineGagNumbers.exe.config
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\NineGagNumbers\bin\Debug\NineGagNumbers.exe
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\NineGagNumbers\bin\Debug\NineGagNumbers.pdb
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\NineGagNumbers\obj\Debug\NineGagNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\NineGagNumbers\obj\Debug\NineGagNumbers.exe
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\NineGagNumbers\obj\Debug\NineGagNumbers.pdb

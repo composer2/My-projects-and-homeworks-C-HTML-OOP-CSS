@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\genericTypes\bin\Debug\genericTypes.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\genericTypes\bin\Debug\genericTypes.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\genericTypes\bin\Debug\genericTypes.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\genericTypes\obj\Debug\genericTypes.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\genericTypes\obj\Debug\genericTypes.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\genericTypes\obj\Debug\genericTypes.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\genericTypes\bin\Debug\genericTypes.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\genericTypes\obj\Debug\genericTypes.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\genericTypes\obj\Debug\genericTypes.pdb

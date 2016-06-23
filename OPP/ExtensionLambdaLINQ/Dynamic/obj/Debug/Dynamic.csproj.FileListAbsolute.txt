@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Dynamic\bin\Debug\Dynamic.exe.config
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Dynamic\bin\Debug\Dynamic.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Dynamic\bin\Debug\Dynamic.pdb
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Dynamic\obj\Debug\Dynamic.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Dynamic\obj\Debug\Dynamic.pdb
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Dynamic\obj\Debug\Dynamic.csprojResolveAssemblyReference.cache

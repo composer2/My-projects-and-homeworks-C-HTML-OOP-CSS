@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ExceptionsTest\bin\Debug\ExceptionsTest.exe.config
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ExceptionsTest\bin\Debug\ExceptionsTest.exe
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ExceptionsTest\bin\Debug\ExceptionsTest.pdb
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ExceptionsTest\obj\Debug\ExceptionsTest.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ExceptionsTest\obj\Debug\ExceptionsTest.exe
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ExceptionsTest\obj\Debug\ExceptionsTest.pdb

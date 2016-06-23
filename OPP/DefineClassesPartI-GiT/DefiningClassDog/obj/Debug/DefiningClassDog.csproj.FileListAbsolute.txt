@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningClassDog\bin\Debug\DefiningClassDog.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningClassDog\bin\Debug\DefiningClassDog.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningClassDog\bin\Debug\DefiningClassDog.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningClassDog\obj\Debug\DefiningClassDog.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningClassDog\obj\Debug\DefiningClassDog.pdb

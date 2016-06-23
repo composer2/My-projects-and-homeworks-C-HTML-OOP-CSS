@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\classPractice\bin\Debug\classPractice.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\classPractice\obj\Debug\classPractice.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\classPractice\bin\Debug\classPractice.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\classPractice\bin\Debug\classPractice.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\classPractice\obj\Debug\classPractice.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\classPractice\obj\Debug\classPractice.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\classPractice\bin\Debug\classPractice.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\classPractice\obj\Debug\classPractice.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\classPractice\obj\Debug\classPractice.pdb

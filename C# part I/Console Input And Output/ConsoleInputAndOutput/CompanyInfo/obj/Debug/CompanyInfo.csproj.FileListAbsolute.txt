@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\CompanyInfo\bin\Debug\CompanyInfo.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\CompanyInfo\bin\Debug\CompanyInfo.pdb
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\CompanyInfo\obj\Debug\CompanyInfo.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\CompanyInfo\obj\Debug\CompanyInfo.pdb

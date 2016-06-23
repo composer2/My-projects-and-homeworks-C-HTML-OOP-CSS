@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.frame {
+    width: 1080px;
+    height: 800px;
+    border: 3px solid #323232;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+header {
+    margin: 10px;
+}
+h1 {
+    font-weight: normal;
+    text-align: center;
+    font-size: 34px;
+    color: #00ADF0;
+}
+h1 p {
+    display: inline-block;
+    text-decoration: underline;
+}
+hr {
+    border: 2px solid #323232;
+    width: 1025px;
+    margin: 25px;
+}
+.comps {
+    margin: 15px;
+    float: left;
+    width: 700px;
+    height: 670px;
+    border: 3px solid #323232;
+}
+fieldset {
+    border: 3px solid #323232;    
+    width: 320px;
+    height: 190px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+.one {
+    float: left;    
+}
+
+.two p{      
+    float: left;
+    margin-left: 10px;
+    margin-top: 23px;   
+    padding-top:6px; 
+    padding-left: 10px;
+}
+.one p {  
+    margin: 20px;
+}
+.frame2:first-of-type {
+    margin-top:120px; 
+}
+.frame2 {  
+    float: left;
+    width: 330px;
+    height: 130px;
+    text-align: center;
+}
+input[type="range"] {
+    width: 280px;   
+    
+}
+aside {
+    text-align:center;
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+input[type="number"] {
+    width: 80px;
+    height: 50px;  
+    border:none;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+

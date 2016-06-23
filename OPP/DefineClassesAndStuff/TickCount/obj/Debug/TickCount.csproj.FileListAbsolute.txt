@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\TickCount\bin\Debug\TickCount.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\TickCount\bin\Debug\TickCount.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\TickCount\bin\Debug\TickCount.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\TickCount\obj\Debug\TickCount.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\TickCount\obj\Debug\TickCount.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\TickCount\bin\Debug\TickCount.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\TickCount\obj\Debug\TickCount.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\TickCount\obj\Debug\TickCount.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\BitsToBits\bin\Debug\BitsToBits.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\BitsToBits\bin\Debug\BitsToBits.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\BitsToBits\bin\Debug\BitsToBits.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\BitsToBits\obj\Debug\BitsToBits.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\BitsToBits\obj\Debug\BitsToBits.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\BitsToBits\obj\Debug\BitsToBits.pdb

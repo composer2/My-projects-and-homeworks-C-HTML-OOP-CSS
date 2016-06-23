@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\SchoolClasses\bin\Debug\SchoolClasses.exe.config
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\SchoolClasses\bin\Debug\SchoolClasses.exe
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\SchoolClasses\bin\Debug\SchoolClasses.pdb
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\SchoolClasses\obj\Debug\SchoolClasses.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\SchoolClasses\obj\Debug\SchoolClasses.exe
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\SchoolClasses\obj\Debug\SchoolClasses.pdb
+D:\Visual Studio\Projects\Telerik\OPP\homework\OOP-Homework-Part-I\SchoolClasses\bin\Debug\SchoolClasses.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\homework\OOP-Homework-Part-I\SchoolClasses\obj\Debug\SchoolClasses.exe
+D:\Visual Studio\Projects\Telerik\OPP\homework\OOP-Homework-Part-I\SchoolClasses\obj\Debug\SchoolClasses.pdb

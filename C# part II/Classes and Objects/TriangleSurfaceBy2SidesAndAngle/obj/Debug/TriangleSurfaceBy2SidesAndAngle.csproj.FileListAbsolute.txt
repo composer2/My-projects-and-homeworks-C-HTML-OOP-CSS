@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Classes and Objects\TriangleSurfaceBy2SidesAndAngle\bin\Debug\TriangleSurfaceBy2SidesAndAngle.exe.config
+D:\Visual Studio\Projects\Telerik\Classes and Objects\TriangleSurfaceBy2SidesAndAngle\bin\Debug\TriangleSurfaceBy2SidesAndAngle.exe
+D:\Visual Studio\Projects\Telerik\Classes and Objects\TriangleSurfaceBy2SidesAndAngle\bin\Debug\TriangleSurfaceBy2SidesAndAngle.pdb
+D:\Visual Studio\Projects\Telerik\Classes and Objects\TriangleSurfaceBy2SidesAndAngle\obj\Debug\TriangleSurfaceBy2SidesAndAngle.exe
+D:\Visual Studio\Projects\Telerik\Classes and Objects\TriangleSurfaceBy2SidesAndAngle\obj\Debug\TriangleSurfaceBy2SidesAndAngle.pdb

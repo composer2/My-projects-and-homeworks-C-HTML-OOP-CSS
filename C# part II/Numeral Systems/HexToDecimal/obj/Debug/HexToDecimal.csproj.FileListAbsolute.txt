@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToDecimal\bin\Debug\HexToDecimal.exe.config
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToDecimal\bin\Debug\HexToDecimal.exe
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToDecimal\bin\Debug\HexToDecimal.pdb
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToDecimal\obj\Debug\HexToDecimal.exe
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToDecimal\obj\Debug\HexToDecimal.pdb
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToDecimal\obj\Debug\HexToDecimal.csprojResolveAssemblyReference.cache

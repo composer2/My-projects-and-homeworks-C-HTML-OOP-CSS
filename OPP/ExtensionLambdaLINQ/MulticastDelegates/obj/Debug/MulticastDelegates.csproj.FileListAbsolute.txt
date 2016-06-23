@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\MulticastDelegates\bin\Debug\MulticastDelegates.exe.config
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\MulticastDelegates\obj\Debug\MulticastDelegates.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\MulticastDelegates\obj\Debug\MulticastDelegates.pdb

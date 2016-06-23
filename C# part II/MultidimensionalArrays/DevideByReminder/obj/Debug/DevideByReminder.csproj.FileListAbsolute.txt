@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\DevideByReminder\bin\Debug\DevideByReminder.exe.config
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\DevideByReminder\bin\Debug\DevideByReminder.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\DevideByReminder\bin\Debug\DevideByReminder.pdb
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\DevideByReminder\obj\Debug\DevideByReminder.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\DevideByReminder\obj\Debug\DevideByReminder.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\DevideByReminder\obj\Debug\DevideByReminder.pdb

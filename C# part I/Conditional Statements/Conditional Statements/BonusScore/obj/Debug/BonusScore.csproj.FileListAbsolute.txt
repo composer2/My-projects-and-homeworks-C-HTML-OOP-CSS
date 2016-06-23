@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\BonusScore\bin\Debug\BonusScore.exe.config
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\BonusScore\bin\Debug\BonusScore.exe
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\BonusScore\bin\Debug\BonusScore.pdb
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\BonusScore\obj\Debug\BonusScore.exe
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\BonusScore\obj\Debug\BonusScore.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ABandC\bin\Debug\ABandC.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ABandC\bin\Debug\ABandC.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ABandC\bin\Debug\ABandC.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ABandC\obj\Debug\ABandC.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ABandC\obj\Debug\ABandC.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ABandC\obj\Debug\ABandC.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\3rdBit\bin\Debug\3rdBit.exe.config
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\3rdBit\bin\Debug\3rdBit.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\3rdBit\bin\Debug\3rdBit.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\3rdBit\obj\Debug\3rdBit.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\3rdBit\obj\Debug\3rdBit.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\3rdBit\obj\Debug\3rdBit.pdb

@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.frame {
+    border: 1px solid black;
+    width: 800px;
+    height: 600px;
+    padding: 1px;
+    background: #F1F1F1;
+}
+.left {
+    float: left; 
+    width: 140px;
+    height: 590px;
+    margin: 1px;
+    font-size: 12px;
+    font-family: sans-serif;
+    padding-top: 4px;
+    padding-left: 4px;
+}
+.middle {
+    float: left;
+    border: 1px double #A2A2A2;
+    background: #fff;    
+    width: 500px;
+    height: 576px;
+    margin: 1px;    
+}
+.right {
+    float: left;    
+    width: 147px;
+    height: 590px;
+    margin: 1px;   
+}
+header {
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: sans-serif;
+    
+}
+header a{
+    text-decoration: none;
+    color: #000;
+}
+header a:hover{
+    background: red;
+}
+nav>ul>li {
+    margin: 5px 0px;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+nav>ul>li>a{
+    color: #8E0604;
+    font-size: 14px;
+    font-weight: bold;
+}
+nav{
+    clear: both;
+}
+nav>ul>li>ul>li:hover>a{
+    text-decoration: underline;
+    background: darkgrey;
+}
+.main {
+    padding: 15px 5px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.one {
+    padding: 5px;
+}
+input[type="button"] {
+    width: 96px;
+    height: 18px;
+    font-size: 12px;
+    border: 1px solid #000;
+}
+.prev{
+   background-image: url("butleft.png");
+    background-size:cover;
+    background-position:center center;
+    outline: none;
+}
+.next {
+    background-image: url("butright.png");
+    background-size:cover;
+    background-position:center center;
+    outline: none;
+}
+input[type="button"]:hover {
+    opacity: 0.8;
+    background: lightgray;
+}    
+hr {
+    border: 1px solid #909090;
+    margin:0px 8px;
+    width: 483px;
+}
+h2 {
+    background: #808080;
+    margin: 5px 8px;
+    width: 484px;
+    color: #fff;
+    font-weight: normal;
+    font-size: 14px;  
+}
+.two {
+    margin-bottom: 20px;
+    
+}
+.two img {
+    float: left;
+    margin: 2px;
+    width: 124px;
+    height: 105px;
+}
+.two p{
+padding: 5px;
+}
+.two a {
+    color: #981C1A;
+}
+.three {
+    margin-bottom: 10px;
+}
+.three p {
+    margin: 10px;
+}
+.three a {
+    margin: 10px;
+    color: #981C1A;    
+}
+.four {
+    margin-bottom: 10px;
+}
+.four p {
+    margin: 10px;
+}
+.four a {
+    margin: 10px;
+    color: #981C1A;    
+}.five {
+    margin-bottom: 10px;
+}
+.five p {
+    margin: 10px;
+}
+.five a {
+    margin: 10px;
+    color: #981C1A;    
+}
+.six {
+    margin: 3px;
+    padding-left: 5px;
+}
+main section div a:hover {
+   background:  lightgray;
+}
+.right h3 {
+    background: #808080;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+.right aside div {
+    border: 1px solid #8F8F8F;
+    font-size: 13px;
+    text-align: center;
+    background: #fff;
+    margin-bottom:1px; 
+    padding: 0px 0px 4px;
+}
+.right aside div a{
+    color: #991F1D;
+}
+.right aside div input {
+   margin-left: 5px;
+   margin-bottom: 2px;
+   margin-top:5px;  
+   width: 90px;
+   height: 15px;
+   border: 1px solid #87A3BD;
+   
+}
+.right aside div input[type="button"] {
+    margin-top:5px;
+    width: 20px;
+    height: 16px;
+    border-radius: 3px;
+    border: 1px solid #064077;
+    background: white;
+    color: black;
+    font-weight: bold;
+}
+#styles{
+    width:100px;
+    height: 30px; 
+     background-image: url("styles.png");
+    background-size:cover;
+    background-position:center center;
+    outline: none;
+    color: #36CBFE;
+}
+aside div a:hover {
+    background: darkgrey;
+}
+

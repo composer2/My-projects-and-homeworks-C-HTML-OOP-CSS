@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ParseTags\bin\Debug\ParseTags.exe.config
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ParseTags\bin\Debug\ParseTags.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ParseTags\bin\Debug\ParseTags.pdb
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ParseTags\obj\Debug\ParseTags.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ParseTags\obj\Debug\ParseTags.pdb
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ParseTags\obj\Debug\ParseTags.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ShapesTest\bin\Debug\ShapesTest.exe.config
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ShapesTest\bin\Debug\ShapesTest.exe
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ShapesTest\bin\Debug\ShapesTest.pdb
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ShapesTest\obj\Debug\ShapesTest.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ShapesTest\obj\Debug\ShapesTest.exe
+D:\Visual Studio\Projects\Telerik\Homework-OOP-Principles-PartII\ShapesTest\obj\Debug\ShapesTest.pdb

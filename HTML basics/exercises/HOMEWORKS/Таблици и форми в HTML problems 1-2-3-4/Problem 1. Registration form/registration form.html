@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registration Form</title>
+</head>
+<body>
+    <form method="get">
+    <fieldset style="border:0px">
+    <table border="1px" cellspacing="0" cellpadding="4">
+        <colgroup>
+            <col width="50">
+            <col>
+        </colgroup>
+        <tbody>
+          <tr>
+		    	<td align="center"><label for="Lname"><strong>Last Name</strong></label></td>
+                <td align="left"><input type="text" name="Lname" id="Lname" /></td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label for="Fname"><strong>First Name</strong></label></td>
+                <td align="left"><input type="text" name="Fname" id="Fname" /></td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label for="Address"><strong>Address</strong></label></td>
+                <td align="left">
+		            <textarea name="address" cols="25" rows="4" id="Address"></textarea>    
+                </td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label for="City"><strong>City</strong></label></td>
+                <td align="left">
+                    <input type="text" name="city" id="City" size="11"/>
+                    <label for="state"><strong> State </strong></label> <input type="text" name="state" id="state" size="2"/>
+                </td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label for="zipCode"><strong>Zip/Postal/Code</strong></label></td>
+                <td align="left"><input type="text" name="zipCode" id="zipCode" size="3"/></td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label for="country"><strong>Country</strong></label></td>
+                <td align="left">
+                    <select name="country" id="country">
+			            <option value="USA">Unated States of America</option>
+			            <option value="GB">Great Britain</option>
+			            <option value="BG" selected="selected">Bulgaria</option>
+		            </select>
+                </td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label for="countryCode"><strong>Phone(country code, area code, number)</strong></label></td>
+                <td align="left">(+<input id="countryCode" type="tel" size="1"/>)<input id="areaCode" type="tel" size="1"/> <input id="number" type="tel" size="7"/>
+                </td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label for="emailInput"><strong>E-mail</strong></label></td>
+                <td align="left"><input id="emailInput" type="email"/>
+            </td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label for="birthDate"><strong>Birth Date</strong></label></td>
+                <td align="left"><input type="text" name="birthDate" id="birthDate"
+                required="true" placeholder="дд.мм.гггг г." size="10"/></td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label for="gender"><strong>Gender</strong></label></td>
+                <td align="left">
+                    <select name="gender" id="gender">
+			            <option value="O">Other</option>
+			            <option value="F">Female</option>
+			            <option value="M" selected="selected">Male</option>
+		            </select>
+                </td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label><strong>Starting date</strong></label></td>
+                <td align="left">
+                    <input name="season" type="radio" id="spring" value="spring" />
+		            <label for="spring">Spring 2016</label>
+		            <input name="season" type="radio" id="summer" value="summer" />
+		            <label for="summer">Summer 2016</label>
+                </td>
+		  </tr>
+           <tr>
+		    	<td align="center"><label for="questions"><strong>Comments/Questions</strong></label></td>
+                <td align="left">
+                    <textarea name="commnets" cols="25" rows="4" id="questions"></textarea>
+                </td>
+		  </tr>
+           <tr>
+		    	<td colspan="2" align="center" bgcolor="skyblue">
+                    <input type="submit" name="submit" value="Submit" />
+		            <input type="reset" value="Clean This Form" />
+                </td>
+		  </tr>        
+</tbody>
+</table>
+</fieldset>
+</form>
+</body>
+</html>

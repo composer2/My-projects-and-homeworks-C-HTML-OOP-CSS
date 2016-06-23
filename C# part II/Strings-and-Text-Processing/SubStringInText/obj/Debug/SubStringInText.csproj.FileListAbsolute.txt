@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\SubStringInText\bin\Debug\SubStringInText.exe.config
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\SubStringInText\bin\Debug\SubStringInText.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\SubStringInText\bin\Debug\SubStringInText.pdb
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\SubStringInText\obj\Debug\SubStringInText.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\SubStringInText\obj\Debug\SubStringInText.pdb

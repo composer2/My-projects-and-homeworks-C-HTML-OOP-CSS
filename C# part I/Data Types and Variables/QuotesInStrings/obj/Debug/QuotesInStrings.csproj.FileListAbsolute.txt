@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\QuotesInStrings\obj\Debug\QuotesInStrings.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

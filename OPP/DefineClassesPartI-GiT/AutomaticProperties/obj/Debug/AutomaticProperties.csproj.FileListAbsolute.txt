@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\AutomaticProperties\obj\Debug\AutomaticProperties.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\AutomaticProperties\obj\Debug\AutomaticProperties.csprojResolveAssemblyReference.cache

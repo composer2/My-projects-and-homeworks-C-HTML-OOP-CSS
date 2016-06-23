@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ThirdDigit\bin\Debug\ThirdDigit.exe.config
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ThirdDigit\bin\Debug\ThirdDigit.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ThirdDigit\bin\Debug\ThirdDigit.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ThirdDigit\obj\Debug\ThirdDigit.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ThirdDigit\obj\Debug\ThirdDigit.pdb

@@ -1,0 +1,2 @@
+D:\Visual Studio\Projects\Telerik\14sept2013\EncryptAndEncode\bin\Debug\EncryptAndEncode.exe.config
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\EncryptAndEncode\bin\Debug\EncryptAndEncode.exe.config

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning2\february2015morning2\PersianRugs\bin\Debug\PersianRugs.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning2\february2015morning2\PersianRugs\bin\Debug\PersianRugs.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning2\february2015morning2\PersianRugs\bin\Debug\PersianRugs.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning2\february2015morning2\PersianRugs\obj\Debug\PersianRugs.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning2\february2015morning2\PersianRugs\obj\Debug\PersianRugs.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning2\february2015morning2\PersianRugs\obj\Debug\PersianRugs.pdb

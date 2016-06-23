@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\overloading-operators\bin\Debug\overloading-operators.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\overloading-operators\bin\Debug\overloading-operators.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\overloading-operators\bin\Debug\overloading-operators.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\overloading-operators\obj\Debug\overloading-operators.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\overloading-operators\obj\Debug\overloading-operators.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\overloading-operators\obj\Debug\overloading-operators.pdb

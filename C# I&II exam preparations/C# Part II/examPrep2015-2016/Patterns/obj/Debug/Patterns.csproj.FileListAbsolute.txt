@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Patterns\bin\Debug\Patterns.exe.config
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Patterns\bin\Debug\Patterns.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Patterns\bin\Debug\Patterns.pdb
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Patterns\obj\Debug\Patterns.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Patterns\obj\Debug\Patterns.pdb

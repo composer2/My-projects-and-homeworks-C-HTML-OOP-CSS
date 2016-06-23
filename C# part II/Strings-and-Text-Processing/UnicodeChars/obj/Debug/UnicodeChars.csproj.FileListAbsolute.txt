@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\UnicodeChars\bin\Debug\UnicodeChars.exe.config
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\UnicodeChars\bin\Debug\UnicodeChars.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\UnicodeChars\bin\Debug\UnicodeChars.pdb
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\UnicodeChars\obj\Debug\UnicodeChars.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\UnicodeChars\obj\Debug\UnicodeChars.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\UnicodeChars\obj\Debug\UnicodeChars.pdb

@@ -1,0 +1,1 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\CheckTheN-thBit\bin\Debug\CheckTheN-thBit.exe.config

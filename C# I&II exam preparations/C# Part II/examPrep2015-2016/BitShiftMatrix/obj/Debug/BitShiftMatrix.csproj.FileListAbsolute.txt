@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe.config
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\BitShiftMatrix\bin\Debug\BitShiftMatrix.pdb
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\BitShiftMatrix\obj\Debug\BitShiftMatrix.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\BitShiftMatrix\obj\Debug\BitShiftMatrix.exe
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\BitShiftMatrix\obj\Debug\BitShiftMatrix.pdb
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe.config
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\BitShiftMatrix\obj\Debug\BitShiftMatrix.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\BitShiftMatrix\obj\Debug\BitShiftMatrix.pdb

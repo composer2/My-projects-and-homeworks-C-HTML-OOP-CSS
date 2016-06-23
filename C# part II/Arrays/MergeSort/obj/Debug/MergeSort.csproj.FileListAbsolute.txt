@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Arrays\MergeSort\bin\Debug\MergeSort.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\MergeSort\bin\Debug\MergeSort.exe
+D:\Visual Studio\Projects\Telerik\Arrays\MergeSort\bin\Debug\MergeSort.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Arrays\MergeSort\obj\Debug\MergeSort.exe
+D:\Visual Studio\Projects\Telerik\Arrays\MergeSort\obj\Debug\MergeSort.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\RelevanceIndex\bin\Debug\RelevanceIndex.exe.config
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\RelevanceIndex\bin\Debug\RelevanceIndex.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\RelevanceIndex\bin\Debug\RelevanceIndex.pdb
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\RelevanceIndex\obj\Debug\RelevanceIndex.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\RelevanceIndex\obj\Debug\RelevanceIndex.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\RelevanceIndex\obj\Debug\RelevanceIndex.pdb

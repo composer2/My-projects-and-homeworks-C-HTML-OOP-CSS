@@ -1,0 +1,1 @@
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe.config

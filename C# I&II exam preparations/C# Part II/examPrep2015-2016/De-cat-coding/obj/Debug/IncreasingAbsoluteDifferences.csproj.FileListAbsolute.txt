@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\De-cat-coding\bin\Debug\De-cat-coding.exe.config
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\De-cat-coding\bin\Debug\De-cat-coding.exe
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\De-cat-coding\bin\Debug\De-cat-coding.pdb
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\De-cat-coding\obj\Debug\IncreasingAbsoluteDifferences.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\De-cat-coding\obj\Debug\De-cat-coding.exe
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\De-cat-coding\obj\Debug\De-cat-coding.pdb
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\De-cat-coding\bin\Debug\De-cat-coding.exe.config
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\De-cat-coding\obj\Debug\De-cat-coding.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\De-cat-coding\obj\Debug\De-cat-coding.pdb

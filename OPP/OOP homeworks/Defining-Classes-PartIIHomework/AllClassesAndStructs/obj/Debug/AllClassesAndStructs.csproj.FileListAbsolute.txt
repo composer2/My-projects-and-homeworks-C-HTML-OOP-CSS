@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\AllClassesAndStructs\obj\Debug\AllClassesAndStructs.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\AllClassesAndStructs\bin\Debug\AllClassesAndStructs.dll
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\AllClassesAndStructs\bin\Debug\AllClassesAndStructs.pdb
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\AllClassesAndStructs\obj\Debug\AllClassesAndStructs.dll
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\AllClassesAndStructs\obj\Debug\AllClassesAndStructs.pdb

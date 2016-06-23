@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Exception-Handling\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Visual Studio\Projects\Telerik\Exception-Handling\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Visual Studio\Projects\Telerik\Exception-Handling\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Visual Studio\Projects\Telerik\Exception-Handling\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Visual Studio\Projects\Telerik\Exception-Handling\SquareRoot\obj\Debug\SquareRoot.pdb

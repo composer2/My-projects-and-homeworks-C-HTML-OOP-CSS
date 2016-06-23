@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\MoonGravity\bin\Debug\MoonGravity.exe.config
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\MoonGravity\bin\Debug\MoonGravity.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\MoonGravity\bin\Debug\MoonGravity.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\MoonGravity\obj\Debug\MoonGravity.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\MoonGravity\obj\Debug\MoonGravity.pdb

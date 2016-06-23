@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticFields\bin\Debug\staticFields.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticFields\bin\Debug\staticFields.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticFields\bin\Debug\staticFields.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticFields\obj\Debug\staticFields.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticFields\obj\Debug\staticFields.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticFields\bin\Debug\staticFields.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticFields\obj\Debug\staticFields.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticFields\obj\Debug\staticFields.pdb

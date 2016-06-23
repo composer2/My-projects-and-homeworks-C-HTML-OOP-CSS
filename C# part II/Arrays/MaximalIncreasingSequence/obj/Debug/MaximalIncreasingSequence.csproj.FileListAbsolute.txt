@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+D:\Visual Studio\Projects\Telerik\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+D:\Visual Studio\Projects\Telerik\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Classes and Objects\TriangleSurfaceBy3Sides\bin\Debug\TriangleSurfaceBy3Sides.exe.config
+D:\Visual Studio\Projects\Telerik\Classes and Objects\TriangleSurfaceBy3Sides\bin\Debug\TriangleSurfaceBy3Sides.exe
+D:\Visual Studio\Projects\Telerik\Classes and Objects\TriangleSurfaceBy3Sides\bin\Debug\TriangleSurfaceBy3Sides.pdb
+D:\Visual Studio\Projects\Telerik\Classes and Objects\TriangleSurfaceBy3Sides\obj\Debug\TriangleSurfaceBy3Sides.exe
+D:\Visual Studio\Projects\Telerik\Classes and Objects\TriangleSurfaceBy3Sides\obj\Debug\TriangleSurfaceBy3Sides.pdb

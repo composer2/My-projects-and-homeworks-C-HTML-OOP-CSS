@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\PascalTriangle\bin\Debug\PascalTriangle.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\PascalTriangle\bin\Debug\PascalTriangle.pdb
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\PascalTriangle\obj\Debug\PascalTriangle.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\PascalTriangle\obj\Debug\PascalTriangle.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\PascalTriangle\obj\Debug\PascalTriangle.pdb

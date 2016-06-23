@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticConstructor\bin\Debug\staticConstructor.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticConstructor\bin\Debug\staticConstructor.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticConstructor\bin\Debug\staticConstructor.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticConstructor\obj\Debug\staticConstructor.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticConstructor\obj\Debug\staticConstructor.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticConstructor\bin\Debug\staticConstructor.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticConstructor\obj\Debug\staticConstructor.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticConstructor\obj\Debug\staticConstructor.pdb

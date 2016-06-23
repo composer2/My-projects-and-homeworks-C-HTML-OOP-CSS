@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyWithParameters\bin\Debug\propertyWithParameters.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyWithParameters\bin\Debug\propertyWithParameters.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyWithParameters\bin\Debug\propertyWithParameters.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyWithParameters\obj\Debug\propertyWithParameters.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyWithParameters\obj\Debug\propertyWithParameters.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyWithParameters\obj\Debug\propertyWithParameters.pdb

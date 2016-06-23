@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+D:\Visual Studio\Projects\Telerik\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+D:\Visual Studio\Projects\Telerik\Loops\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+D:\Visual Studio\Projects\Telerik\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+D:\Visual Studio\Projects\Telerik\Loops\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\SequencesOfBits\bin\Debug\SequencesOfBits.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\SequencesOfBits\bin\Debug\SequencesOfBits.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\SequencesOfBits\bin\Debug\SequencesOfBits.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\SequencesOfBits\obj\Debug\SequencesOfBits.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\SequencesOfBits\obj\Debug\SequencesOfBits.pdb

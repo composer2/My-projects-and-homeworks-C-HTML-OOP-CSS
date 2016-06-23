@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.exe.config
+D:\Visual Studio\Projects\Telerik\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.exe
+D:\Visual Studio\Projects\Telerik\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.pdb
+D:\Visual Studio\Projects\Telerik\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.exe
+D:\Visual Studio\Projects\Telerik\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.pdb

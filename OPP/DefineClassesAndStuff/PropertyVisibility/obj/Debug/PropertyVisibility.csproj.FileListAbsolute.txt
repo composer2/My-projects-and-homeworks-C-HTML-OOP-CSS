@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\PropertyVisibility\bin\Debug\PropertyVisibility.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\PropertyVisibility\bin\Debug\PropertyVisibility.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\PropertyVisibility\bin\Debug\PropertyVisibility.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\PropertyVisibility\obj\Debug\PropertyVisibility.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\PropertyVisibility\obj\Debug\PropertyVisibility.pdb

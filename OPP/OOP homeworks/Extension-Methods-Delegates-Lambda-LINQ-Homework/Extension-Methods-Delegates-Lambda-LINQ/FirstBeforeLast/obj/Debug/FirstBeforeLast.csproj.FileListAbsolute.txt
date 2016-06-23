@@ -1,0 +1,16 @@
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\FirstBeforeLast.exe.config
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\FirstBeforeLast.exe
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\FirstBeforeLast.pdb
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\AllClassesAndStruct.dll
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\AllClassesAndStruct.pdb
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\obj\Debug\FirstBeforeLast.csprojResolveAssemblyReference.cache
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\obj\Debug\FirstBeforeLast.exe
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\obj\Debug\FirstBeforeLast.pdb
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\FirstBeforeLast.exe.config
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\FirstBeforeLast.exe
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\FirstBeforeLast.pdb
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\AllClassesAndStruct.dll
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\bin\Debug\AllClassesAndStruct.pdb
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\obj\Debug\FirstBeforeLast.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\obj\Debug\FirstBeforeLast.exe
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\FirstBeforeLast\obj\Debug\FirstBeforeLast.pdb

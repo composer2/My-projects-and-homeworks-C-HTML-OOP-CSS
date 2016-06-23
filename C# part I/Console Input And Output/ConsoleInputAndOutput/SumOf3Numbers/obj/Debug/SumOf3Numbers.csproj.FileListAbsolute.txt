@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.pdb
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb

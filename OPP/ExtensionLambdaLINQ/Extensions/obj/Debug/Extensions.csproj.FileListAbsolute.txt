@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Extensions\bin\Debug\Extensions.exe.config
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Extensions\bin\Debug\Extensions.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Extensions\bin\Debug\Extensions.pdb
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Extensions\obj\Debug\Extensions.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Extensions\obj\Debug\Extensions.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\Extensions\obj\Debug\Extensions.pdb

@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Zerg
+{
+    class Zerg
+    {
+        const int NumeralSystemBase = 15; 
+
+        static int ConvertZergToInt(string currentDigit)
+        {
+         
+            switch (currentDigit)
+            {
+                case "Rawr": return 0; break;
+                case "Rrrr": return 1; break;
+                case "Hsst": return 2; break;
+                case "Ssst": return 3; break;
+                case "Grrr": return 4; break;
+                case "Rarr": return 5; break;
+                case "Mrrr": return 6; break;
+                case "Psst": return 7; break;
+                case "Uaah": return 8; break;
+                case "Uaha": return 9; break;
+                case "Zzzz": return 10; break;
+                case "Bauu": return 11; break;
+                case "Djav": return 12; break;
+                case "Myau": return 13; break;
+                case "Gruh": return 14; break;
+                default: throw new ArgumentException();
+            }
+        }
+        static long PowerOF15th(int power)
+        {
+            long result = 1;
+
+            for (int i = 0; i < power; i++)
+            {
+                result *= NumeralSystemBase;
+            }
+            return result;
+        }
+
+        static void Main(string[] args)
+        {
+            string zergMessage = Console.ReadLine();
+            int position = zergMessage.Length / 4 - 1;
+            long result = 0;
+
+            for (int i = 0; i < zergMessage.Length; i += 4)
+            {
+                string currDigit = zergMessage.Substring(i, 4);
+                result += ConvertZergToInt(currDigit) * PowerOF15th(position);
+                position--;
+            }
+            Console.WriteLine(result);
+        }
+
+    }
+}

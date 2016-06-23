@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\14sept2013\MovingLetters\bin\Debug\MovingLetters.exe.config
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\MovingLetters\bin\Debug\MovingLetters.exe.config
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\MovingLetters\bin\Debug\MovingLetters.exe
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\MovingLetters\bin\Debug\MovingLetters.pdb
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\MovingLetters\obj\Debug\MovingLetters.exe
+D:\Visual Studio\Projects\Telerik\variant-2-14sept2013\MovingLetters\obj\Debug\MovingLetters.pdb

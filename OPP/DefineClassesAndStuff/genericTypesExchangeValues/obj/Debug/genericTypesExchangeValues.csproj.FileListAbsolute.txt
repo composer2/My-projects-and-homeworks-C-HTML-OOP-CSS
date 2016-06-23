@@ -1,0 +1,2 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\genericTypesExchangeValues\bin\Debug\genericTypesExchangeValues.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\genericTypesExchangeValues\bin\Debug\genericTypesExchangeValues.exe.config

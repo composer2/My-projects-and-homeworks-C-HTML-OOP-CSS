@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.config
+D:\Visual Studio\Projects\Telerik\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe
+D:\Visual Studio\Projects\Telerik\Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.pdb
+D:\Visual Studio\Projects\Telerik\Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.exe
+D:\Visual Studio\Projects\Telerik\Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\bin\Debug\StudentTest.exe.config
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\bin\Debug\StudentTest.exe
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\bin\Debug\StudentTest.pdb
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\bin\Debug\AllClassesAndStruct.dll
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\bin\Debug\AllClassesAndStruct.pdb
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\obj\Debug\StudentTest.exe
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\obj\Debug\StudentTest.pdb
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\obj\Debug\StudentTest.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\bin\Debug\StudentTest.exe.config
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\obj\Debug\StudentTest.exe
+D:\Visual Studio\Projects\Telerik\Extension-Methods-Delegates-Lambda-LINQ\StudentTest\obj\Debug\StudentTest.pdb

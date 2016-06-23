@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb

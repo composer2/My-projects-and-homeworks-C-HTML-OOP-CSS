@@ -1,0 +1,5 @@
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\AllClassesAndStruct\bin\Debug\AllClassesAndStruct.dll
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\AllClassesAndStruct\bin\Debug\AllClassesAndStruct.pdb
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\AllClassesAndStruct\obj\Debug\AllClassesAndStruct.csprojResolveAssemblyReference.cache
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\AllClassesAndStruct\obj\Debug\AllClassesAndStruct.dll
+C:\Users\Bobby\Desktop\Team Project\CSharpOOPTeamDarkKahn\Extension-Methods-Delegates-Lambda-LINQ\AllClassesAndStruct\obj\Debug\AllClassesAndStruct.pdb

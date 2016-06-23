@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+D:\Visual Studio\Projects\Telerik\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+D:\Visual Studio\Projects\Telerik\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+D:\Visual Studio\Projects\Telerik\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+D:\Visual Studio\Projects\Telerik\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

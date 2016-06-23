@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Maslan\bin\Debug\Maslan.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Maslan\bin\Debug\Maslan.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Maslan\bin\Debug\Maslan.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Maslan\obj\Debug\Maslan.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Maslan\obj\Debug\Maslan.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Maslan\obj\Debug\Maslan.pdb

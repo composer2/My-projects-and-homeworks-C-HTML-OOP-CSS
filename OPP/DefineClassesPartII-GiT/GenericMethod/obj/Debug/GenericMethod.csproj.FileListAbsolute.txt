@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericMethod\bin\Debug\GenericMethod.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericMethod\bin\Debug\GenericMethod.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericMethod\bin\Debug\GenericMethod.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericMethod\obj\Debug\GenericMethod.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\GenericMethod\obj\Debug\GenericMethod.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\22JanuaryExam\TRES4Numbers\bin\Debug\TRES4Numbers.exe.config
+D:\Visual Studio\Projects\Telerik\22JanuaryExam\TRES4Numbers\bin\Debug\TRES4Numbers.exe
+D:\Visual Studio\Projects\Telerik\22JanuaryExam\TRES4Numbers\bin\Debug\TRES4Numbers.pdb
+D:\Visual Studio\Projects\Telerik\22JanuaryExam\TRES4Numbers\obj\Debug\TRES4Numbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\22JanuaryExam\TRES4Numbers\obj\Debug\TRES4Numbers.exe
+D:\Visual Studio\Projects\Telerik\22JanuaryExam\TRES4Numbers\obj\Debug\TRES4Numbers.pdb

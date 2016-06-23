@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\IntDoubleAndString\bin\Debug\IntDoubleAndString.exe.config
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\IntDoubleAndString\bin\Debug\IntDoubleAndString.exe
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\IntDoubleAndString\bin\Debug\IntDoubleAndString.pdb
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\IntDoubleAndString\obj\Debug\IntDoubleAndString.exe
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\IntDoubleAndString\obj\Debug\IntDoubleAndString.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Methods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe.config
+D:\Visual Studio\Projects\Telerik\Methods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.exe
+D:\Visual Studio\Projects\Telerik\Methods\FirstLargerThanNeighbours\bin\Debug\FirstLargerThanNeighbours.pdb
+D:\Visual Studio\Projects\Telerik\Methods\FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.exe
+D:\Visual Studio\Projects\Telerik\Methods\FirstLargerThanNeighbours\obj\Debug\FirstLargerThanNeighbours.pdb

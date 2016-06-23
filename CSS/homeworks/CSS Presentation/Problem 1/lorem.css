@@ -1,0 +1,16 @@
+html ,body{
+    font-size: 24px;
+    font-family: Consolas, 'Edwardian Script ITC', sans-serif;
+    color: #0094ff;
+}
+p{
+    text-indent: 15px;
+}
+p::first-letter { 
+    line-height: 1.8em;
+    font-size: 1.5em;
+    font-family: 'Great Vibes', cursive;
+}
+p::first-line {
+    font-weight: bold;
+}

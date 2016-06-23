@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\AbstractClasses\bin\Debug\AbstractClasses.exe
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\AbstractClasses\bin\Debug\AbstractClasses.pdb
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\AbstractClasses\obj\Debug\AbstractClasses.exe
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\AbstractClasses\obj\Debug\AbstractClasses.pdb

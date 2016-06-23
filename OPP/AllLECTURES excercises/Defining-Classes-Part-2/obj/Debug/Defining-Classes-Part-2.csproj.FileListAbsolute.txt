@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Defining-Classes-Part-2\bin\Debug\Defining-Classes-Part-2.exe.config
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Defining-Classes-Part-2\bin\Debug\Defining-Classes-Part-2.exe
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Defining-Classes-Part-2\bin\Debug\Defining-Classes-Part-2.pdb
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Defining-Classes-Part-2\obj\Debug\Defining-Classes-Part-2.exe
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Defining-Classes-Part-2\obj\Debug\Defining-Classes-Part-2.pdb
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Defining-Classes-Part-2\obj\Debug\Defining-Classes-Part-2.csprojResolveAssemblyReference.cache

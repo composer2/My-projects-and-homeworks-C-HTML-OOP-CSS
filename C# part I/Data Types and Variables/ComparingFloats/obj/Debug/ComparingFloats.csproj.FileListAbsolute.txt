@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\ComparingFloats\bin\Debug\ComparingFloats.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\ComparingFloats\bin\Debug\ComparingFloats.pdb
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\ComparingFloats\obj\Debug\ComparingFloats.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\DataTypesAndvariables\ComparingFloats\obj\Debug\ComparingFloats.pdb

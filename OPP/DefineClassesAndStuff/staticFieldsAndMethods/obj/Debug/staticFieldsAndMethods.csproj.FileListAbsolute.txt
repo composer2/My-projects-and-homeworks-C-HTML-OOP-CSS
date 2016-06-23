@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticFieldsAndMethods\bin\Debug\staticFieldsAndMethods.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticFieldsAndMethods\bin\Debug\staticFieldsAndMethods.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticFieldsAndMethods\bin\Debug\staticFieldsAndMethods.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticFieldsAndMethods\obj\Debug\staticFieldsAndMethods.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticFieldsAndMethods\obj\Debug\staticFieldsAndMethods.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticFieldsAndMethods\bin\Debug\staticFieldsAndMethods.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticFieldsAndMethods\obj\Debug\staticFieldsAndMethods.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticFieldsAndMethods\obj\Debug\staticFieldsAndMethods.pdb

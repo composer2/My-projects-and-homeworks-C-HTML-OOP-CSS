@@ -1,0 +1,2 @@
+Create an user profile Web page profile.html, friends page named friends.html and info page named home.html.
+Link them to one another using <a> tag

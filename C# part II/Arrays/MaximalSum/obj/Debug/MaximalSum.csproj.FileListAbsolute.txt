@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSum\bin\Debug\MaximalSum.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSum\bin\Debug\MaximalSum.exe
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSum\bin\Debug\MaximalSum.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSum\obj\Debug\MaximalSum.exe
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSum\obj\Debug\MaximalSum.pdb

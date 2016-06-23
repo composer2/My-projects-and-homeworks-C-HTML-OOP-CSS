@@ -1,0 +1,1 @@
+D:\Visual Studio\Projects\Telerik\Arrays\BinarySearch\bin\Debug\BinarySearch.exe.config

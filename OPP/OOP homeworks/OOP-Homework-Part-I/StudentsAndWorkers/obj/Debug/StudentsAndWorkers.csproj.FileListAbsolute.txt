@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe.config
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.exe
+D:\Visual Studio\Projects\Telerik\OOP-Homework-Part-I\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb

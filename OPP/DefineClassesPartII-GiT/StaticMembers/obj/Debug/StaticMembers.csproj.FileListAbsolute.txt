@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\StaticMembers\bin\Debug\StaticMembers.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\StaticMembers\bin\Debug\StaticMembers.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\StaticMembers\bin\Debug\StaticMembers.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\StaticMembers\obj\Debug\StaticMembers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\StaticMembers\obj\Debug\StaticMembers.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\StaticMembers\obj\Debug\StaticMembers.pdb

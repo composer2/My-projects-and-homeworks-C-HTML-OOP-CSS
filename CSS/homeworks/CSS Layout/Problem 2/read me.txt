@@ -1,0 +1,2 @@
+Create the following Web page using external CSS styles.
+Buttons should consist of PNG images with text over them.

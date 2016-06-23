@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\SimpleInheritance\bin\Debug\SimpleInheritance.exe.config
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\SimpleInheritance\bin\Debug\SimpleInheritance.exe
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\SimpleInheritance\bin\Debug\SimpleInheritance.pdb
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\SimpleInheritance\obj\Debug\SimpleInheritance.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\SimpleInheritance\obj\Debug\SimpleInheritance.exe
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\SimpleInheritance\obj\Debug\SimpleInheritance.pdb

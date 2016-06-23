@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\PointInsideCircleOutsideRectangle\bin\Debug\PointInsideCircleOutsideRectangle.exe.config
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\PointInsideCircleOutsideRectangle\bin\Debug\PointInsideCircleOutsideRectangle.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\PointInsideCircleOutsideRectangle\bin\Debug\PointInsideCircleOutsideRectangle.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\PointInsideCircleOutsideRectangle\obj\Debug\PointInsideCircleOutsideRectangle.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\PointInsideCircleOutsideRectangle\obj\Debug\PointInsideCircleOutsideRectangle.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\PointInsideCircleOutsideRectangle\obj\Debug\PointInsideCircleOutsideRectangle.csprojResolveAssemblyReference.cache

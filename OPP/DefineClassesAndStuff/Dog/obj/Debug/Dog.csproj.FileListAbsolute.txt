@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\Dog\bin\Debug\Dog.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\Dog\bin\Debug\Dog.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\Dog\bin\Debug\Dog.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\Dog\obj\Debug\Dog.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\Dog\obj\Debug\Dog.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\Dog\obj\Debug\Dog.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\Dog\bin\Debug\Dog.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\Dog\obj\Debug\Dog.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\Dog\obj\Debug\Dog.pdb

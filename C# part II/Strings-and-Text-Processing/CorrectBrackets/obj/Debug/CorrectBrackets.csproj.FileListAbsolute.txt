@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\CorrectBrackets\obj\Debug\CorrectBrackets.pdb

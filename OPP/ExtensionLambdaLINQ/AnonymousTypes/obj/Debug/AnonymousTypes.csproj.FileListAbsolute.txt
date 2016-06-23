@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\AnonymousTypes\bin\Debug\AnonymousTypes.exe.config
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\AnonymousTypes\bin\Debug\AnonymousTypes.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\AnonymousTypes\bin\Debug\AnonymousTypes.pdb
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\AnonymousTypes\obj\Debug\AnonymousTypes.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\AnonymousTypes\obj\Debug\AnonymousTypes.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\AnonymousTypes\obj\Debug\AnonymousTypes.pdb

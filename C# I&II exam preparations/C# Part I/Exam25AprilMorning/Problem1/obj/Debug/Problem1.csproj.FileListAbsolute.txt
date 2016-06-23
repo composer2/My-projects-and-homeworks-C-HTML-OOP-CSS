@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Exam25AprilMorning\Problem1\bin\Debug\Problem1.exe.config
+D:\Visual Studio\Projects\Telerik\Exam25AprilMorning\Problem1\bin\Debug\Problem1.exe
+D:\Visual Studio\Projects\Telerik\Exam25AprilMorning\Problem1\bin\Debug\Problem1.pdb
+D:\Visual Studio\Projects\Telerik\Exam25AprilMorning\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Exam25AprilMorning\Problem1\obj\Debug\Problem1.exe
+D:\Visual Studio\Projects\Telerik\Exam25AprilMorning\Problem1\obj\Debug\Problem1.pdb

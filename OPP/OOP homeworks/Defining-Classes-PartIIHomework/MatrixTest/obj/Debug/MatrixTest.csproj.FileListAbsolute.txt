@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\MatrixTest\bin\Debug\MatrixTest.exe.config
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\MatrixTest\bin\Debug\MatrixTest.exe
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\MatrixTest\bin\Debug\MatrixTest.pdb
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\MatrixTest\bin\Debug\AllClassesAndStructs.dll
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\MatrixTest\bin\Debug\AllClassesAndStructs.pdb
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\MatrixTest\obj\Debug\MatrixTest.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\MatrixTest\obj\Debug\MatrixTest.exe
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\MatrixTest\obj\Debug\MatrixTest.pdb

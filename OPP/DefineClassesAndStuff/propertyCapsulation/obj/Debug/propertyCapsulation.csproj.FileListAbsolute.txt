@@ -1,0 +1,9 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyCapsulation\bin\Debug\propertyCapsulation.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyCapsulation\bin\Debug\propertyCapsulation.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyCapsulation\bin\Debug\propertyCapsulation.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyCapsulation\obj\Debug\propertyCapsulation.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyCapsulation\obj\Debug\propertyCapsulation.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyCapsulation\obj\Debug\propertyCapsulation.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\propertyCapsulation\bin\Debug\propertyCapsulation.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\propertyCapsulation\obj\Debug\propertyCapsulation.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\propertyCapsulation\obj\Debug\propertyCapsulation.pdb

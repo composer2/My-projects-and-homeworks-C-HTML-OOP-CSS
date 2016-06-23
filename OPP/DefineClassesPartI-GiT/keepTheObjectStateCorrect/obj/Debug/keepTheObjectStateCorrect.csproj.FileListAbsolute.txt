@@ -1,0 +1,1 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\keepTheObjectStateCorrect\bin\Debug\keepTheObjectStateCorrect.exe.config

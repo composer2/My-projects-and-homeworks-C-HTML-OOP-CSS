@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Loops\BinarytoDecimal\bin\Debug\BinarytoDecimal.exe.config
+D:\Visual Studio\Projects\Telerik\Loops\BinarytoDecimal\bin\Debug\BinarytoDecimal.exe
+D:\Visual Studio\Projects\Telerik\Loops\BinarytoDecimal\bin\Debug\BinarytoDecimal.pdb
+D:\Visual Studio\Projects\Telerik\Loops\BinarytoDecimal\obj\Debug\BinarytoDecimal.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Loops\BinarytoDecimal\obj\Debug\BinarytoDecimal.exe
+D:\Visual Studio\Projects\Telerik\Loops\BinarytoDecimal\obj\Debug\BinarytoDecimal.pdb

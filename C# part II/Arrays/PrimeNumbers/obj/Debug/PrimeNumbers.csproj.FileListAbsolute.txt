@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\Visual Studio\Projects\Telerik\Arrays\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\Visual Studio\Projects\Telerik\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache

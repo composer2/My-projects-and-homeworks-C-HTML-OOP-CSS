@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMTest", "GSMTest\GSMTest.csproj", "{4E3D13EF-5342-46DC-9066-09CA942083DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllClasses", "AllClasses\AllClasses.csproj", "{E5161F68-65AF-4454-825B-1460DAF96DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E3D13EF-5342-46DC-9066-09CA942083DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3D13EF-5342-46DC-9066-09CA942083DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3D13EF-5342-46DC-9066-09CA942083DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3D13EF-5342-46DC-9066-09CA942083DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5161F68-65AF-4454-825B-1460DAF96DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5161F68-65AF-4454-825B-1460DAF96DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5161F68-65AF-4454-825B-1460DAF96DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5161F68-65AF-4454-825B-1460DAF96DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

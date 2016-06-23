@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe.config
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.exe
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\NightmareOnCodeStreet\bin\Debug\NightmareOnCodeStreet.pdb
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.exe
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\NightmareOnCodeStreet\obj\Debug\NightmareOnCodeStreet.pdb

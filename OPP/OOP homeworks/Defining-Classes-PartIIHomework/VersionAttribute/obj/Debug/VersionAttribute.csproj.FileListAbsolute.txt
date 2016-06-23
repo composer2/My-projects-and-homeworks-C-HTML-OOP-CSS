@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\VersionAttribute\bin\Debug\VersionAttribute.exe.config
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\VersionAttribute\bin\Debug\VersionAttribute.exe
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\VersionAttribute\bin\Debug\VersionAttribute.pdb
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\VersionAttribute\bin\Debug\AllClassesAndStructs.dll
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\VersionAttribute\bin\Debug\AllClassesAndStructs.pdb
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\VersionAttribute\obj\Debug\VersionAttribute.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\VersionAttribute\obj\Debug\VersionAttribute.exe
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\VersionAttribute\obj\Debug\VersionAttribute.pdb

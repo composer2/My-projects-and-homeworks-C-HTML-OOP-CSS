@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\SimpleClassDefinition\bin\Debug\SimpleClassDefinition.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\SimpleClassDefinition\bin\Debug\SimpleClassDefinition.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\SimpleClassDefinition\bin\Debug\SimpleClassDefinition.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\SimpleClassDefinition\obj\Debug\SimpleClassDefinition.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\SimpleClassDefinition\obj\Debug\SimpleClassDefinition.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\SimpleClassDefinition\obj\Debug\SimpleClassDefinition.pdb

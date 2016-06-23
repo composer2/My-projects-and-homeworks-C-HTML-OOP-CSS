@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\Homework-DefineClasses-I\GSMTest\bin\Debug\GSMTest.exe.config
+D:\Visual Studio\Projects\Telerik\Homework-DefineClasses-I\GSMTest\obj\Debug\GSMTest.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Homework-DefineClasses-I\GSMTest\bin\Debug\GSMTest.exe
+D:\Visual Studio\Projects\Telerik\Homework-DefineClasses-I\GSMTest\bin\Debug\GSMTest.pdb
+D:\Visual Studio\Projects\Telerik\Homework-DefineClasses-I\GSMTest\bin\Debug\AllClasses.dll
+D:\Visual Studio\Projects\Telerik\Homework-DefineClasses-I\GSMTest\bin\Debug\AllClasses.pdb
+D:\Visual Studio\Projects\Telerik\Homework-DefineClasses-I\GSMTest\obj\Debug\GSMTest.exe
+D:\Visual Studio\Projects\Telerik\Homework-DefineClasses-I\GSMTest\obj\Debug\GSMTest.pdb

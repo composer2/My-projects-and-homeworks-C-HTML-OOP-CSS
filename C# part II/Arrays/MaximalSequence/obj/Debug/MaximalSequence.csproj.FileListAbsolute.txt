@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSequence\obj\Debug\MaximalSequence.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+D:\Visual Studio\Projects\Telerik\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb

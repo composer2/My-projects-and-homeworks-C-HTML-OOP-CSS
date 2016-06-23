@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\2-4-8\bin\Debug\2-4-8.exe.config
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\2-4-8\bin\Debug\2-4-8.exe
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\2-4-8\bin\Debug\2-4-8.pdb
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\2-4-8\obj\Debug\2-4-8.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\2-4-8\obj\Debug\2-4-8.exe
+D:\Visual Studio\Projects\Telerik\exams\1@6December2013Evening\2-4-8\obj\Debug\2-4-8.pdb

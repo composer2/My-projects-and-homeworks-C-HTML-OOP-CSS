@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+D:\Visual Studio\Projects\Telerik\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+D:\Visual Studio\Projects\Telerik\Loops\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+D:\Visual Studio\Projects\Telerik\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+D:\Visual Studio\Projects\Telerik\Loops\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

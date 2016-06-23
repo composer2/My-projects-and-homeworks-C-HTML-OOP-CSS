@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.exe.config
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.exe
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryFloatingPoint\bin\Debug\BinaryFloatingPoint.pdb
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryFloatingPoint\obj\Debug\BinaryFloatingPoint.exe
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryFloatingPoint\obj\Debug\BinaryFloatingPoint.pdb

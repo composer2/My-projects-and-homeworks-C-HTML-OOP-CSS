@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\test2\bin\Debug\test2.exe.config
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\test2\bin\Debug\test2.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\test2\bin\Debug\test2.pdb
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\test2\obj\Debug\test2.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\test2\obj\Debug\test2.pdb

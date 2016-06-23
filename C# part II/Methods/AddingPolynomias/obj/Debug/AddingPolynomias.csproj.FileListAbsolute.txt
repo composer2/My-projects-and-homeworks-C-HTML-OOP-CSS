@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Methods\AddingPolynomias\bin\Debug\AddingPolynomias.exe.config
+D:\Visual Studio\Projects\Telerik\Methods\AddingPolynomias\bin\Debug\AddingPolynomias.exe
+D:\Visual Studio\Projects\Telerik\Methods\AddingPolynomias\bin\Debug\AddingPolynomias.pdb
+D:\Visual Studio\Projects\Telerik\Methods\AddingPolynomias\obj\Debug\AddingPolynomias.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Methods\AddingPolynomias\obj\Debug\AddingPolynomias.exe
+D:\Visual Studio\Projects\Telerik\Methods\AddingPolynomias\obj\Debug\AddingPolynomias.pdb

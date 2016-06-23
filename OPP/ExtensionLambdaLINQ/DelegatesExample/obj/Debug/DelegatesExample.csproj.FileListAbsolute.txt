@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\DelegatesExample\bin\Debug\DelegatesExample.exe.config
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\DelegatesExample\bin\Debug\DelegatesExample.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\DelegatesExample\bin\Debug\DelegatesExample.pdb
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\DelegatesExample\obj\Debug\DelegatesExample.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\DelegatesExample\obj\Debug\DelegatesExample.pdb

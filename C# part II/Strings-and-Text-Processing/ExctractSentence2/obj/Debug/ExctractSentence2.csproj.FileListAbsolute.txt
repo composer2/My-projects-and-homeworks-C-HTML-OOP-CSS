@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ExctractSentence2\bin\Debug\ExctractSentence2.exe.config
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ExctractSentence2\bin\Debug\ExctractSentence2.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ExctractSentence2\bin\Debug\ExctractSentence2.pdb
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ExctractSentence2\obj\Debug\ExctractSentence2.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ExctractSentence2\obj\Debug\ExctractSentence2.pdb
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\ExctractSentence2\obj\Debug\ExctractSentence2.csprojResolveAssemblyReference.cache

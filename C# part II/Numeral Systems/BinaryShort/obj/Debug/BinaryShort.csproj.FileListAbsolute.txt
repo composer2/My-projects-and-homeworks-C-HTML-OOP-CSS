@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryShort\bin\Debug\BinaryShort.exe.config
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryShort\bin\Debug\BinaryShort.exe
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryShort\bin\Debug\BinaryShort.pdb
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryShort\obj\Debug\BinaryShort.exe
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryShort\obj\Debug\BinaryShort.pdb
+D:\Visual Studio\Projects\Telerik\Numeral Systems\BinaryShort\obj\Debug\BinaryShort.csprojResolveAssemblyReference.cache

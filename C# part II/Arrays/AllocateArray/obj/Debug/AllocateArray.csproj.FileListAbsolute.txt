@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Arrays\AllocateArray\bin\Debug\AllocateArray.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\AllocateArray\bin\Debug\AllocateArray.exe
+D:\Visual Studio\Projects\Telerik\Arrays\AllocateArray\bin\Debug\AllocateArray.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\AllocateArray\obj\Debug\AllocateArray.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Arrays\AllocateArray\obj\Debug\AllocateArray.exe
+D:\Visual Studio\Projects\Telerik\Arrays\AllocateArray\obj\Debug\AllocateArray.pdb

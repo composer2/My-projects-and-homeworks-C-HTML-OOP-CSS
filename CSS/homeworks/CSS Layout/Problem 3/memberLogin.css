@@ -1,0 +1,81 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    width: 660px;
+    height: 300px;
+}
+header {
+    color: white;
+    background: #2D2D2D;
+    height: 70px;
+    border-radius: 10px 10px 0 0;
+    border: 1px solid #806850;
+    border-bottom-color: #2D2D2D;
+}
+img {
+    margin: 10px;
+    float: left;
+}
+h1 {
+    float: left;
+    margin: 20px;
+    font-size: 22px;
+    font-weight: normal;
+}
+nav {
+    padding-top: 20px;
+}
+fieldset {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+input {
+    float: left;
+    width: 150px;
+    height: 20px;
+    margin-right: 20px;
+    border: 1px solid #819DB3;
+    padding-left:8px; 
+}
+input[type="submit"] {
+    float: right;
+    width: 56px;
+    height: 26px;
+    margin-right: 8px;
+    padding-left:0px; 
+    border: 1px solid #FFFDFF;
+    color: white;
+    background-image: url("go.png");
+    background-size:cover;
+    background-position:center center;
+    outline: none;
+    border-radius: 10px; 
+    opacity: 1;
+}
+input[type="submit"]:hover {
+    opacity: 0.8;
+    border: 1px solid #f00;
+}
+section {
+    clear: both;
+    background: #3B3B3B;
+    padding: 10px;
+    border-radius: 0px 0px 10px 10px;
+        
+}
+h2 {
+    margin: 14px;
+    font-size: 26px;
+    font-weight: normal;
+    color: #FFD51A;
+}
+p {
+    margin: 5px;
+    color: #A5A5A5;
+}
+span {
+    color: #FDFDFD;
+}

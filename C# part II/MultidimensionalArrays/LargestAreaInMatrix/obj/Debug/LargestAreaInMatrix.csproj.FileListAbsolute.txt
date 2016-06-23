@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.exe.config
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.pdb
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.pdb
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.csprojResolveAssemblyReference.cache

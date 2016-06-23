@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ExRugs\bin\Debug\ExRugs.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ExRugs\bin\Debug\ExRugs.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ExRugs\bin\Debug\ExRugs.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ExRugs\obj\Debug\ExRugs.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ExRugs\obj\Debug\ExRugs.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ExRugs\obj\Debug\ExRugs.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.exe.config
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.pdb
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.pdb

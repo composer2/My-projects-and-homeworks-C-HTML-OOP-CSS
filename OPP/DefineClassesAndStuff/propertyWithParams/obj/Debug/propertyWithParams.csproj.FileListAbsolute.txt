@@ -1,0 +1,1 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyWithParams\bin\Debug\propertyWithParams.exe.config

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\FourDigits\bin\Debug\FourDigits.exe.config
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\FourDigits\bin\Debug\FourDigits.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\FourDigits\bin\Debug\FourDigits.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\FourDigits\obj\Debug\FourDigits.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\FourDigits\obj\Debug\FourDigits.pdb

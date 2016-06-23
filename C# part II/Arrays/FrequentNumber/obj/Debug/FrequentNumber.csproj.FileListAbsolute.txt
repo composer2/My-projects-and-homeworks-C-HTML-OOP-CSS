@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Arrays\FrequentNumber\bin\Debug\FrequentNumber.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\FrequentNumber\bin\Debug\FrequentNumber.exe
+D:\Visual Studio\Projects\Telerik\Arrays\FrequentNumber\bin\Debug\FrequentNumber.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\FrequentNumber\obj\Debug\FrequentNumber.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Arrays\FrequentNumber\obj\Debug\FrequentNumber.exe
+D:\Visual Studio\Projects\Telerik\Arrays\FrequentNumber\obj\Debug\FrequentNumber.pdb

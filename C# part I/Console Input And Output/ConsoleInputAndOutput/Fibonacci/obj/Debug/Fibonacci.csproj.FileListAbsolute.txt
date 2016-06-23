@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\Fibonacci\bin\Debug\Fibonacci.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\Fibonacci\obj\Debug\Fibonacci.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\Fibonacci\obj\Debug\Fibonacci.pdb

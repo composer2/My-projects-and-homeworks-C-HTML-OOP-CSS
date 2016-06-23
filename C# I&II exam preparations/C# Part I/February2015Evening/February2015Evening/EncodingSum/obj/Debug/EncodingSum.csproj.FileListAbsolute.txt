@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\EncodingSum\bin\Debug\EncodingSum.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\EncodingSum\bin\Debug\EncodingSum.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\EncodingSum\bin\Debug\EncodingSum.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\EncodingSum\obj\Debug\EncodingSum.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\EncodingSum\obj\Debug\EncodingSum.pdb

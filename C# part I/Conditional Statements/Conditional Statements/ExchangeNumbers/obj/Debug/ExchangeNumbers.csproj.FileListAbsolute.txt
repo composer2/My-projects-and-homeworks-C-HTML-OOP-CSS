@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe.config
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\ExchangeNumbers\bin\Debug\ExchangeNumbers.exe
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\ExchangeNumbers\bin\Debug\ExchangeNumbers.pdb
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\ExchangeNumbers\obj\Debug\ExchangeNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\ExchangeNumbers\obj\Debug\ExchangeNumbers.exe
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\ExchangeNumbers\obj\Debug\ExchangeNumbers.pdb

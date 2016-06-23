@@ -1,0 +1,53 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+}
+table {
+    padding: 0px;
+    margin: 0px;
+    width: 305px;
+    height: 205px;
+    font-size: 12px;
+    background-color:#595959;
+    color: white;
+    text-align: left;
+    font-family: sans-serif;    
+}
+table tr td {
+    padding: 10px 0px 0px 0px;
+}
+table tr .red { 
+    padding: 0px 10px 0px 0px;
+    color: #FF0000;
+    font-weight: 600;
+}
+.italic {
+    font-style: italic;
+    vertical-align: top;
+    opacity: 0.95;
+}
+.head {
+    color: #BDBCBB;
+    font-weight: normal; 
+    font-size: 1.2em;   
+    padding: 11px 5px 5px 3px;     
+}
+.orange {
+    color: #E06B1E;
+    font-weight: 600;
+}
+.greenCircle {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    font-size: 5px;
+    color: #71B47A;
+    background-color: #71B47A;
+}
+.grey {
+    color: #BBBBBB;    
+}
+.SameColor {
+    color: #FFF2B2;
+}

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\Indexer\bin\Debug\Indexer.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\Indexer\bin\Debug\Indexer.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\Indexer\bin\Debug\Indexer.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\Indexer\obj\Debug\Indexer.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\Indexer\obj\Debug\Indexer.pdb

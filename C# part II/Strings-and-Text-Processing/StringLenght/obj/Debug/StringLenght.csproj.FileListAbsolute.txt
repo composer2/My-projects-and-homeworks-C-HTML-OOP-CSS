@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\StringLenght\bin\Debug\StringLenght.exe.config
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\StringLenght\bin\Debug\StringLenght.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\StringLenght\bin\Debug\StringLenght.pdb
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\StringLenght\obj\Debug\StringLenght.exe
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\StringLenght\obj\Debug\StringLenght.pdb
+D:\Visual Studio\Projects\Telerik\Strings-and-Text-Processing\StringLenght\obj\Debug\StringLenght.csprojResolveAssemblyReference.cache

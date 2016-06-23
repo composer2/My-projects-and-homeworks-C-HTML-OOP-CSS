@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\ActionAndFunc\bin\Debug\ActionAndFunc.exe.config
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\ActionAndFunc\bin\Debug\ActionAndFunc.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\ActionAndFunc\bin\Debug\ActionAndFunc.pdb
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\ActionAndFunc\obj\Debug\ActionAndFunc.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\ActionAndFunc\obj\Debug\ActionAndFunc.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\ActionAndFunc\obj\Debug\ActionAndFunc.pdb

@@ -1,0 +1,2 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\propertyInitiliaziation\bin\Debug\propertyInitiliaziation.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\propertyInitiliaziation\bin\Debug\propertyInitiliaziation.exe.config

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\NestedClasses\bin\Debug\NestedClasses.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\NestedClasses\bin\Debug\NestedClasses.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\NestedClasses\bin\Debug\NestedClasses.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\NestedClasses\obj\Debug\NestedClasses.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\NestedClasses\obj\Debug\NestedClasses.pdb

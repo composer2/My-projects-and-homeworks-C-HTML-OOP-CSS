@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\modifiers\bin\Debug\modifiers.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\modifiers\bin\Debug\modifiers.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\modifiers\bin\Debug\modifiers.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\modifiers\obj\Debug\modifiers.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\modifiers\obj\Debug\modifiers.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\modifiers\bin\Debug\modifiers.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\modifiers\obj\Debug\modifiers.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\modifiers\obj\Debug\modifiers.pdb

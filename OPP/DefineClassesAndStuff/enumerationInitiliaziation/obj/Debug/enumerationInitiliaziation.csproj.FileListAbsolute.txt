@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\enumerationInitiliaziation\bin\Debug\enumerationInitiliaziation.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\enumerationInitiliaziation\bin\Debug\enumerationInitiliaziation.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\enumerationInitiliaziation\bin\Debug\enumerationInitiliaziation.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\enumerationInitiliaziation\obj\Debug\enumerationInitiliaziation.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\enumerationInitiliaziation\obj\Debug\enumerationInitiliaziation.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\enumerationInitiliaziation\bin\Debug\enumerationInitiliaziation.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\enumerationInitiliaziation\obj\Debug\enumerationInitiliaziation.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\enumerationInitiliaziation\obj\Debug\enumerationInitiliaziation.pdb

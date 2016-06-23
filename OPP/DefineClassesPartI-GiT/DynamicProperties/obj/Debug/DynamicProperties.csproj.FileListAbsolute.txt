@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DynamicProperties\bin\Debug\DynamicProperties.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DynamicProperties\bin\Debug\DynamicProperties.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DynamicProperties\bin\Debug\DynamicProperties.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DynamicProperties\obj\Debug\DynamicProperties.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DynamicProperties\obj\Debug\DynamicProperties.pdb

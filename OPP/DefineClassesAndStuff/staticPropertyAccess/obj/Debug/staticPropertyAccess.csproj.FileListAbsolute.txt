@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticPropertyAccess\bin\Debug\staticPropertyAccess.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticPropertyAccess\bin\Debug\staticPropertyAccess.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticPropertyAccess\bin\Debug\staticPropertyAccess.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticPropertyAccess\obj\Debug\staticPropertyAccess.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\staticPropertyAccess\obj\Debug\staticPropertyAccess.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticPropertyAccess\bin\Debug\staticPropertyAccess.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticPropertyAccess\obj\Debug\staticPropertyAccess.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\staticPropertyAccess\obj\Debug\staticPropertyAccess.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Digits\bin\Debug\Digits.exe.config
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Digits\obj\Debug\Digits.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Digits\bin\Debug\Digits.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Digits\bin\Debug\Digits.pdb
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Digits\obj\Debug\Digits.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\Digits\obj\Debug\Digits.pdb

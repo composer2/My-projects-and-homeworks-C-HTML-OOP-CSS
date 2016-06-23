@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ConsoleAplication2\bin\Debug\ConsoleAplication2.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ConsoleAplication2\bin\Debug\ConsoleAplication2.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ConsoleAplication2\bin\Debug\ConsoleAplication2.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ConsoleAplication2\obj\Debug\ConsoleAplication2.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ConsoleAplication2\obj\Debug\ConsoleAplication2.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\ConsoleAplication2\obj\Debug\ConsoleAplication2.pdb

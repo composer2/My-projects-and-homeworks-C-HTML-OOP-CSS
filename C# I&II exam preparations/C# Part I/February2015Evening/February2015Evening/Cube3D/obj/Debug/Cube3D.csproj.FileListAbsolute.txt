@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Cube3D\bin\Debug\Cube3D.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Cube3D\bin\Debug\Cube3D.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Cube3D\bin\Debug\Cube3D.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Cube3D\obj\Debug\Cube3D.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening\February2015Evening\Cube3D\obj\Debug\Cube3D.pdb

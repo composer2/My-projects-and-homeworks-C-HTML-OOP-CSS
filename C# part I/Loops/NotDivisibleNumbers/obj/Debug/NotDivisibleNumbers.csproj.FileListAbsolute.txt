@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe.config
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.pdb
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.pdb

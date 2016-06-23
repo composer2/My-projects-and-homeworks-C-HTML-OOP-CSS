@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exam31may2016\matrix\bin\Debug\matrix.exe.config
+D:\Visual Studio\Projects\Telerik\exam31may2016\matrix\bin\Debug\matrix.exe
+D:\Visual Studio\Projects\Telerik\exam31may2016\matrix\bin\Debug\matrix.pdb
+D:\Visual Studio\Projects\Telerik\exam31may2016\matrix\obj\Debug\matrix.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exam31may2016\matrix\obj\Debug\matrix.exe
+D:\Visual Studio\Projects\Telerik\exam31may2016\matrix\obj\Debug\matrix.pdb

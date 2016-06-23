@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\Pascal2\bin\Debug\Pascal2.exe.config
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\Pascal2\bin\Debug\Pascal2.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\Pascal2\bin\Debug\Pascal2.pdb
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\Pascal2\obj\Debug\Pascal2.exe
+D:\Visual Studio\Projects\Telerik\MultidimensionalArrays\Pascal2\obj\Debug\Pascal2.pdb

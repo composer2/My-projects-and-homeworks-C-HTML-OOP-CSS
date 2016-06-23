@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\DigitAsWord\bin\Debug\DigitAsWord.exe
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\DigitAsWord\obj\Debug\DigitAsWord.exe
+D:\Visual Studio\Projects\Telerik\Conditional Statements\Conditional Statements\DigitAsWord\obj\Debug\DigitAsWord.pdb

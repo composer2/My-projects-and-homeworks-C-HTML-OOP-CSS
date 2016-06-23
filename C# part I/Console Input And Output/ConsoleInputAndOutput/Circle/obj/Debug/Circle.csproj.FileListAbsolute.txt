@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\Circle\bin\Debug\Circle.exe.config
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\Circle\bin\Debug\Circle.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\Circle\bin\Debug\Circle.pdb
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\Circle\obj\Debug\Circle.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\Circle\obj\Debug\Circle.pdb

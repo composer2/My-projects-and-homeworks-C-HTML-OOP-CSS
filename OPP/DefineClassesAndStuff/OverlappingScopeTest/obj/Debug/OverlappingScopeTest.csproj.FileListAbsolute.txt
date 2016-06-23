@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\OverlappingScopeTest\bin\Debug\OverlappingScopeTest.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\OverlappingScopeTest\bin\Debug\OverlappingScopeTest.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\OverlappingScopeTest\bin\Debug\OverlappingScopeTest.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\OverlappingScopeTest\obj\Debug\OverlappingScopeTest.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\OverlappingScopeTest\obj\Debug\OverlappingScopeTest.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\OverlappingScopeTest\bin\Debug\OverlappingScopeTest.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\OverlappingScopeTest\obj\Debug\OverlappingScopeTest.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\OverlappingScopeTest\obj\Debug\OverlappingScopeTest.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Arrays\QuickSort\bin\Debug\QuickSort.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\QuickSort\bin\Debug\QuickSort.exe
+D:\Visual Studio\Projects\Telerik\Arrays\QuickSort\bin\Debug\QuickSort.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\QuickSort\obj\Debug\QuickSort.exe
+D:\Visual Studio\Projects\Telerik\Arrays\QuickSort\obj\Debug\QuickSort.pdb

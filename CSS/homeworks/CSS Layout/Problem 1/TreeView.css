@@ -1,0 +1,31 @@
+html, body, nav, ul, li, a{
+    margin: 0px;
+    padding: 0px;
+}
+body nav{
+    margin: 20px;
+    float: left;
+    font-weight: bold;
+}
+body nav ul {
+    list-style-type: none;
+}
+body nav ul a{
+    text-decoration: none;
+    color: #888888;
+}
+body >nav >ul >li>a{
+    color: black;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body >nav >ul >li>ul{
+    display: none;
+}
+body >nav >ul>li:hover>ul{
+    display: block;
+    margin: 0px 10px;
+}
+body nav ul>li:hover>a{
+    text-decoration: underline;
+}

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOfNnumbers\bin\Debug\SumOfNnumbers.exe.config
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOfNnumbers\bin\Debug\SumOfNnumbers.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOfNnumbers\bin\Debug\SumOfNnumbers.pdb
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOfNnumbers\obj\Debug\SumOfNnumbers.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\SumOfNnumbers\obj\Debug\SumOfNnumbers.pdb

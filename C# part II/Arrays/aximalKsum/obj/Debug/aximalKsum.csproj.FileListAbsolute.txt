@@ -1,0 +1,1 @@
+D:\Visual Studio\Projects\Telerik\Arrays\aximalKsum\bin\Debug\aximalKsum.exe.config

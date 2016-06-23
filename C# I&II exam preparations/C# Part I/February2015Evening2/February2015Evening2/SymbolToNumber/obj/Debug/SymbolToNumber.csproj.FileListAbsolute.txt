@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\SymbolToNumber\bin\Debug\SymbolToNumber.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\SymbolToNumber\bin\Debug\SymbolToNumber.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\SymbolToNumber\bin\Debug\SymbolToNumber.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\SymbolToNumber\obj\Debug\SymbolToNumber.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Evening2\February2015Evening2\SymbolToNumber\obj\Debug\SymbolToNumber.pdb

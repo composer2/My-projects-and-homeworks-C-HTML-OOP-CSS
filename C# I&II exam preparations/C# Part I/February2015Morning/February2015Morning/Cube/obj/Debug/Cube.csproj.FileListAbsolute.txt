@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\Cube\bin\Debug\Cube.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\Cube\bin\Debug\Cube.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\Cube\bin\Debug\Cube.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\Cube\obj\Debug\Cube.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\Cube\obj\Debug\Cube.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\Cube\obj\Debug\Cube.pdb

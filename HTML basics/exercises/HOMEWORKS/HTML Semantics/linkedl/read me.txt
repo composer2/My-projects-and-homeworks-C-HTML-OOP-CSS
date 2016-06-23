@@ -1,0 +1,2 @@
+Create a web page using semantic HTML by the design.Note: 
+Do not try to make the same styles. Implement just the content with its semantics.

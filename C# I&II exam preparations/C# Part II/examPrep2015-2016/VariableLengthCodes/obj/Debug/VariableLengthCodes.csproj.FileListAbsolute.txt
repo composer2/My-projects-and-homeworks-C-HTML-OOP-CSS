@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\VariableLengthCodes\bin\Debug\VariableLengthCodes.exe.config
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\VariableLengthCodes\bin\Debug\VariableLengthCodes.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\VariableLengthCodes\bin\Debug\VariableLengthCodes.pdb
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\VariableLengthCodes\obj\Debug\VariableLengthCodes.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\VariableLengthCodes\obj\Debug\VariableLengthCodes.exe
+D:\Visual Studio\Projects\Telerik\exam prep advance Part II\examPrep2015-2016\VariableLengthCodes\obj\Debug\VariableLengthCodes.pdb

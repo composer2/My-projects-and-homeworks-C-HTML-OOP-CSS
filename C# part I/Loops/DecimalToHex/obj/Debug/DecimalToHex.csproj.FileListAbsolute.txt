@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Loops\DecimalToHex\bin\Debug\DecimalToHex.exe.config
+D:\Visual Studio\Projects\Telerik\Loops\DecimalToHex\bin\Debug\DecimalToHex.exe
+D:\Visual Studio\Projects\Telerik\Loops\DecimalToHex\bin\Debug\DecimalToHex.pdb
+D:\Visual Studio\Projects\Telerik\Loops\DecimalToHex\obj\Debug\DecimalToHex.exe
+D:\Visual Studio\Projects\Telerik\Loops\DecimalToHex\obj\Debug\DecimalToHex.pdb

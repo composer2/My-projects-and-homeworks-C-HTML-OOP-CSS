@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\PointTest\bin\Debug\PointTest.exe.config
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\PointTest\bin\Debug\PointTest.exe
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\PointTest\bin\Debug\PointTest.pdb
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\PointTest\bin\Debug\AllClassesAndStructs.dll
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\PointTest\bin\Debug\AllClassesAndStructs.pdb
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\PointTest\obj\Debug\PointTest.exe
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\PointTest\obj\Debug\PointTest.pdb
+D:\Visual Studio\Projects\Telerik\Defining-Classes-PartIIHomework\PointTest\obj\Debug\PointTest.csprojResolveAssemblyReference.cache

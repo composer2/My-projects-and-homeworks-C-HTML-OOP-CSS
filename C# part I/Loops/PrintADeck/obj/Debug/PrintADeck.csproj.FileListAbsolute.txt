@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\PrintADeck\bin\Debug\PrintADeck.exe.config
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\PrintADeck\bin\Debug\PrintADeck.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\PrintADeck\bin\Debug\PrintADeck.pdb
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\PrintADeck\obj\Debug\PrintADeck.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\PrintADeck\obj\Debug\PrintADeck.exe
+D:\Visual Studio\Projects\SoftUni\Basics Part 2\exams\17jan2016\Loops\PrintADeck\obj\Debug\PrintADeck.pdb

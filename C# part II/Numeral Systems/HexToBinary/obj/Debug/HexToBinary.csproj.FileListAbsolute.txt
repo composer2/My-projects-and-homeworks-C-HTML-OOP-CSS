@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToBinary\bin\Debug\HexToBinary.exe.config
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToBinary\bin\Debug\HexToBinary.exe
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToBinary\bin\Debug\HexToBinary.pdb
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToBinary\obj\Debug\HexToBinary.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToBinary\obj\Debug\HexToBinary.exe
+D:\Visual Studio\Projects\Telerik\Numeral Systems\HexToBinary\obj\Debug\HexToBinary.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Methods\NumberAsArray\bin\Debug\NumberAsArray.exe.config
+D:\Visual Studio\Projects\Telerik\Methods\NumberAsArray\bin\Debug\NumberAsArray.exe
+D:\Visual Studio\Projects\Telerik\Methods\NumberAsArray\bin\Debug\NumberAsArray.pdb
+D:\Visual Studio\Projects\Telerik\Methods\NumberAsArray\obj\Debug\NumberAsArray.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Methods\NumberAsArray\obj\Debug\NumberAsArray.exe
+D:\Visual Studio\Projects\Telerik\Methods\NumberAsArray\obj\Debug\NumberAsArray.pdb

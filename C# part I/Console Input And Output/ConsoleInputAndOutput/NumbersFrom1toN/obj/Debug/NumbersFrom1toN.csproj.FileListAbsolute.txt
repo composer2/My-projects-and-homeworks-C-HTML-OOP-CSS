@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\NumbersFrom1toN\bin\Debug\NumbersFrom1toN.exe.config
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\NumbersFrom1toN\bin\Debug\NumbersFrom1toN.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\NumbersFrom1toN\bin\Debug\NumbersFrom1toN.pdb
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\NumbersFrom1toN\obj\Debug\NumbersFrom1toN.exe
+D:\Visual Studio\Projects\Telerik\Console Input And Output\ConsoleInputAndOutput\NumbersFrom1toN\obj\Debug\NumbersFrom1toN.pdb

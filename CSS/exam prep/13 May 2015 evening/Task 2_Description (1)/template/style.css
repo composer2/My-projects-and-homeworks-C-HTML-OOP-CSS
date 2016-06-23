@@ -1,0 +1,97 @@
+*{
+   padding: 0px;
+   margin: 0px;
+}
+html, body {
+    font-family: 'Segoe UI', 'Segoe UI Web', 'Segoe UI Symbol', 'Helvetica Neue', 'BBAlpha Sans', 'S60 Sans', Arial, sans-serif;
+    background-color: #FFFFFF;
+   margin-left: 10px;
+    width: 1000px;
+    font-weight: 400;
+    -webkit-text-stroke-width: 0;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+header{
+    height: 35px;
+    background-color: #077CC6;
+}
+#logo{
+    width: 180px;
+    height: 35px;
+    float: left;
+    background-image: url("images/logo.png");
+    background-repeat: no-repeat;
+}
+#search{
+    float: right;
+}
+.searchText{
+    display: inline-block;
+    width: 200px;
+    height: 25px;
+    margin: 4px;
+    border: 1px solid #A9A9A9;
+}
+#menu{
+    float: right;
+    
+}
+
+#menu li{
+    float: left;
+    list-style-type: none;
+    padding: 8px;
+}
+#menu a{
+    text-decoration: none;
+    color:#E0E0E0;
+    margin: 4px;
+    text-transform: capitalize; 
+}
+h1{
+    float: left;
+  font-size: 50px;
+  font-weight: normal;
+  margin: 10px;
+  vertical-align: middle;
+}
+img{
+    float: right;
+    border: none;
+  margin: 10px;
+    
+}
+.clear{
+    clear: both;
+}
+main a{
+   text-decoration: none;
+    color:#DC143C;  
+}
+main p{
+    margin-bottom: 10px;
+    text-align: justify;
+    
+}
+code{
+    border: 1px solid black;
+    font-weight: bold;
+}
+footer{
+    background: #077CC6;
+    height: 60px;
+    font-size: 10px;
+}
+.copyright a{
+    color: white;
+}
+.copyright{
+    padding-top: 15px;
+    color: white;    
+    text-decoration: underline;
+    text-transform: capitalize; 
+}
+footer div{
+    text-align: center;
+    color: white;        
+}

@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\BitExchange3-4-5To24-25-26\bin\Debug\BitExchange3-4-5To24-25-26.exe.config
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\BitExchange3-4-5To24-25-26\bin\Debug\BitExchange3-4-5To24-25-26.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\BitExchange3-4-5To24-25-26\bin\Debug\BitExchange3-4-5To24-25-26.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\BitExchange3-4-5To24-25-26\obj\Debug\BitExchange3-4-5To24-25-26.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\BitExchange3-4-5To24-25-26\obj\Debug\BitExchange3-4-5To24-25-26.pdb

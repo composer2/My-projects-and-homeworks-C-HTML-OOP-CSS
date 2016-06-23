@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\basicLanguage\bin\Debug\basicLanguage.exe.config
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\basicLanguage\bin\Debug\basicLanguage.exe
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\basicLanguage\bin\Debug\basicLanguage.pdb
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\basicLanguage\obj\Debug\basicLanguage.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\basicLanguage\obj\Debug\basicLanguage.exe
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\basicLanguage\obj\Debug\basicLanguage.pdb

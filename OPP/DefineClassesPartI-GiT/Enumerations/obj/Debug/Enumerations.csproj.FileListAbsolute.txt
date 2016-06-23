@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\Enumerations\bin\Debug\Enumerations.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\Enumerations\bin\Debug\Enumerations.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\Enumerations\bin\Debug\Enumerations.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\Enumerations\obj\Debug\Enumerations.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\Enumerations\obj\Debug\Enumerations.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\Enumerations\obj\Debug\Enumerations.csprojResolveAssemblyReference.cache

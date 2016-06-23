@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Methods\SortingArray\bin\Debug\SortingArray.exe.config
+D:\Visual Studio\Projects\Telerik\Methods\SortingArray\bin\Debug\SortingArray.exe
+D:\Visual Studio\Projects\Telerik\Methods\SortingArray\bin\Debug\SortingArray.pdb
+D:\Visual Studio\Projects\Telerik\Methods\SortingArray\obj\Debug\SortingArray.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Methods\SortingArray\obj\Debug\SortingArray.exe
+D:\Visual Studio\Projects\Telerik\Methods\SortingArray\obj\Debug\SortingArray.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe.config
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Extension-Methods-Delegates-Lambda-LINQ\bin\Debug\Extension-Methods-Delegates-Lambda-LINQ.pdb
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.exe
+D:\Visual Studio\Projects\Telerik\AllLECTURES\Extension-Methods-Delegates-Lambda-LINQ\obj\Debug\Extension-Methods-Delegates-Lambda-LINQ.pdb

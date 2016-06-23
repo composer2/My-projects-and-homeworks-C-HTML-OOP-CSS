@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Methods\AppereanceCount\bin\Debug\AppereanceCount.exe.config
+D:\Visual Studio\Projects\Telerik\Methods\AppereanceCount\bin\Debug\AppereanceCount.exe
+D:\Visual Studio\Projects\Telerik\Methods\AppereanceCount\bin\Debug\AppereanceCount.pdb
+D:\Visual Studio\Projects\Telerik\Methods\AppereanceCount\obj\Debug\AppereanceCount.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Methods\AppereanceCount\obj\Debug\AppereanceCount.exe
+D:\Visual Studio\Projects\Telerik\Methods\AppereanceCount\obj\Debug\AppereanceCount.pdb

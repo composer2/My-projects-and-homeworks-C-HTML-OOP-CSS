@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Numeral Systems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe.config
+D:\Visual Studio\Projects\Telerik\Numeral Systems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe
+D:\Visual Studio\Projects\Telerik\Numeral Systems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.pdb
+D:\Visual Studio\Projects\Telerik\Numeral Systems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Numeral Systems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.exe
+D:\Visual Studio\Projects\Telerik\Numeral Systems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.pdb

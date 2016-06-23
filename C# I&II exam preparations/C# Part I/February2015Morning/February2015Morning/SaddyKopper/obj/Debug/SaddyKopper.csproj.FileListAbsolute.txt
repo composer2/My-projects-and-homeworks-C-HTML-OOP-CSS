@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\SaddyKopper\bin\Debug\SaddyKopper.exe.config
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\SaddyKopper\bin\Debug\SaddyKopper.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\SaddyKopper\bin\Debug\SaddyKopper.pdb
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\SaddyKopper\obj\Debug\SaddyKopper.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\SaddyKopper\obj\Debug\SaddyKopper.exe
+D:\Visual Studio\Projects\Telerik\exams\February2015Morning\February2015Morning\SaddyKopper\obj\Debug\SaddyKopper.pdb

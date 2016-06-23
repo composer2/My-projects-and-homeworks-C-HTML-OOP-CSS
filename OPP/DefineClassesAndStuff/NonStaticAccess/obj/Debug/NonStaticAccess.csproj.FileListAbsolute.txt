@@ -1,0 +1,8 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\NonStaticAccess\bin\Debug\NonStaticAccess.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\NonStaticAccess\bin\Debug\NonStaticAccess.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\NonStaticAccess\bin\Debug\NonStaticAccess.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\NonStaticAccess\obj\Debug\NonStaticAccess.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\NonStaticAccess\obj\Debug\NonStaticAccess.pdb
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\NonStaticAccess\bin\Debug\NonStaticAccess.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\NonStaticAccess\obj\Debug\NonStaticAccess.exe
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\NonStaticAccess\obj\Debug\NonStaticAccess.pdb

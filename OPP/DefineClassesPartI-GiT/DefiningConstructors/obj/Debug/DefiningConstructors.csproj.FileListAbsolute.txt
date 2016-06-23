@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningConstructors\bin\Debug\DefiningConstructors.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningConstructors\bin\Debug\DefiningConstructors.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningConstructors\bin\Debug\DefiningConstructors.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningConstructors\obj\Debug\DefiningConstructors.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningConstructors\obj\Debug\DefiningConstructors.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartI-GiT\DefiningConstructors\obj\Debug\DefiningConstructors.csprojResolveAssemblyReference.cache

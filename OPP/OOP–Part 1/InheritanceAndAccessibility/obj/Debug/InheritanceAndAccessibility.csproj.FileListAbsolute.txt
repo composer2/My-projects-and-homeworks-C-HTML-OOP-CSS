@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InheritanceAndAccessibility\bin\Debug\InheritanceAndAccessibility.exe.config
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InheritanceAndAccessibility\bin\Debug\InheritanceAndAccessibility.exe
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InheritanceAndAccessibility\bin\Debug\InheritanceAndAccessibility.pdb
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InheritanceAndAccessibility\obj\Debug\InheritanceAndAccessibility.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InheritanceAndAccessibility\obj\Debug\InheritanceAndAccessibility.exe
+D:\Visual Studio\Projects\Telerik\OOP–Part 1\InheritanceAndAccessibility\obj\Debug\InheritanceAndAccessibility.pdb

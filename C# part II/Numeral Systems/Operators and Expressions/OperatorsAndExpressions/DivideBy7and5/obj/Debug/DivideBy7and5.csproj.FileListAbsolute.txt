@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\DivideBy7and5\bin\Debug\DivideBy7and5.exe.config
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\DivideBy7and5\bin\Debug\DivideBy7and5.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\DivideBy7and5\bin\Debug\DivideBy7and5.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\DivideBy7and5\obj\Debug\DivideBy7and5.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\DivideBy7and5\obj\Debug\DivideBy7and5.pdb

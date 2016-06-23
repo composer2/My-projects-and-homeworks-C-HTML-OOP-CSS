@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\CustomAttributesDemo\bin\Debug\CustomAttributesDemo.exe.config
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\CustomAttributesDemo\bin\Debug\CustomAttributesDemo.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\CustomAttributesDemo\bin\Debug\CustomAttributesDemo.pdb
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\CustomAttributesDemo\obj\Debug\CustomAttributesDemo.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\CustomAttributesDemo\obj\Debug\CustomAttributesDemo.exe
+D:\Visual Studio\Projects\Telerik\DefineClassesPartII-GiT\CustomAttributesDemo\obj\Debug\CustomAttributesDemo.pdb

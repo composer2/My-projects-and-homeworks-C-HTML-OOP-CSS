@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\Arrays\SelectionSortAlgo\bin\Debug\SelectionSortAlgo.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\SelectionSortAlgo\bin\Debug\SelectionSortAlgo.exe
+D:\Visual Studio\Projects\Telerik\Arrays\SelectionSortAlgo\bin\Debug\SelectionSortAlgo.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\SelectionSortAlgo\obj\Debug\SelectionSortAlgo.exe
+D:\Visual Studio\Projects\Telerik\Arrays\SelectionSortAlgo\obj\Debug\SelectionSortAlgo.pdb

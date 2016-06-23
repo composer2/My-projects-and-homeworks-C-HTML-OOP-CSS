@@ -1,0 +1,2 @@
+Create a web page using semantic HTML by the design.
+Use some kind of approach to support old (non-HTML5-compatible) Web browsers like IE8.

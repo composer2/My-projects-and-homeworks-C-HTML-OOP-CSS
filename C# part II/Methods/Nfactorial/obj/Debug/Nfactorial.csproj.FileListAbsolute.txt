@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Methods\Nfactorial\bin\Debug\Nfactorial.exe.config
+D:\Visual Studio\Projects\Telerik\Methods\Nfactorial\bin\Debug\Nfactorial.exe
+D:\Visual Studio\Projects\Telerik\Methods\Nfactorial\bin\Debug\Nfactorial.pdb
+D:\Visual Studio\Projects\Telerik\Methods\Nfactorial\obj\Debug\Nfactorial.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Methods\Nfactorial\obj\Debug\Nfactorial.exe
+D:\Visual Studio\Projects\Telerik\Methods\Nfactorial\obj\Debug\Nfactorial.pdb

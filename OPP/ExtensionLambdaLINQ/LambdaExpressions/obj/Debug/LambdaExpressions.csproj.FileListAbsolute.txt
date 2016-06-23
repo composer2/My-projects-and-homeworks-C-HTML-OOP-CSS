@@ -1,0 +1,5 @@
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+D:\Visual Studio\Projects\Telerik\ExtensionLambdaLINQ\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

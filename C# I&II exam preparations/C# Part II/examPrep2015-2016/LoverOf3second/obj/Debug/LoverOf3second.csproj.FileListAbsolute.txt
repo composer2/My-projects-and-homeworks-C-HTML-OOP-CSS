@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\LoverOf3second\bin\Debug\LoverOf3second.exe.config
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\LoverOf3second\bin\Debug\LoverOf3second.exe
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\LoverOf3second\bin\Debug\LoverOf3second.pdb
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\LoverOf3second\obj\Debug\LoverOf3second.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\LoverOf3second\obj\Debug\LoverOf3second.exe
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\LoverOf3second\obj\Debug\LoverOf3second.pdb

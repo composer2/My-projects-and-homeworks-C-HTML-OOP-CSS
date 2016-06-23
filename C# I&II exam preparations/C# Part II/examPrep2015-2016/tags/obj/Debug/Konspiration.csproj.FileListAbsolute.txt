@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\tags\bin\Debug\tags.exe.config
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\tags\obj\Debug\tags.exe
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\tags\obj\Debug\tags.pdb
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\tags\bin\Debug\tags.exe
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\tags\bin\Debug\tags.pdb
+D:\Visual Studio\Projects\Telerik\examPrep2015-2016\tags\obj\Debug\Konspiration.csprojResolveAssemblyReference.cache

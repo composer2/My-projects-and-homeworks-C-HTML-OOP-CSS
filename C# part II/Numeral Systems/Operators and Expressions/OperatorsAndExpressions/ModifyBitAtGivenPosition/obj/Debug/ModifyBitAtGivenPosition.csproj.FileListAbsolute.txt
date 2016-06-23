@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe.config
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ModifyBitAtGivenPosition\bin\Debug\ModifyBitAtGivenPosition.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.exe
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.pdb
+D:\Visual Studio\Projects\Telerik\Operators and Expressions\OperatorsAndExpressions\ModifyBitAtGivenPosition\obj\Debug\ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache

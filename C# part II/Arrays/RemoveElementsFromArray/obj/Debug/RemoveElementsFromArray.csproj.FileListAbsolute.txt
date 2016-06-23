@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.exe.config
+D:\Visual Studio\Projects\Telerik\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.exe
+D:\Visual Studio\Projects\Telerik\Arrays\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.pdb
+D:\Visual Studio\Projects\Telerik\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.exe
+D:\Visual Studio\Projects\Telerik\Arrays\RemoveElementsFromArray\obj\Debug\RemoveElementsFromArray.pdb

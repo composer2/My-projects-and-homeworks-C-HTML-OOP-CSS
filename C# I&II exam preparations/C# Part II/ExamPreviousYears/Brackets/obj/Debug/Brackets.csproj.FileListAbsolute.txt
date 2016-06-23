@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\Brackets\bin\Debug\Brackets.exe.config
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\Brackets\bin\Debug\Brackets.exe
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\Brackets\bin\Debug\Brackets.pdb
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\Brackets\obj\Debug\Brackets.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\Brackets\obj\Debug\Brackets.exe
+D:\Visual Studio\Projects\Telerik\ExamPreviousYears\Brackets\obj\Debug\Brackets.pdb

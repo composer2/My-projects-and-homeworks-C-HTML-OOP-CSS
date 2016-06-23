@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\exam31may2016\numbers\bin\Debug\numbers.exe.config
+D:\Visual Studio\Projects\Telerik\exam31may2016\numbers\bin\Debug\numbers.exe
+D:\Visual Studio\Projects\Telerik\exam31may2016\numbers\bin\Debug\numbers.pdb
+D:\Visual Studio\Projects\Telerik\exam31may2016\numbers\obj\Debug\numbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\exam31may2016\numbers\obj\Debug\numbers.exe
+D:\Visual Studio\Projects\Telerik\exam31may2016\numbers\obj\Debug\numbers.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\Telerik\12sept2013\FeaturingWithGrisko\bin\Debug\FeaturingWithGrisko.exe.config
+D:\Visual Studio\Projects\Telerik\12sept2013\FeaturingWithGrisko\bin\Debug\FeaturingWithGrisko.exe
+D:\Visual Studio\Projects\Telerik\12sept2013\FeaturingWithGrisko\bin\Debug\FeaturingWithGrisko.pdb
+D:\Visual Studio\Projects\Telerik\12sept2013\FeaturingWithGrisko\obj\Debug\FeaturingWithGrisko.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Telerik\12sept2013\FeaturingWithGrisko\obj\Debug\FeaturingWithGrisko.exe
+D:\Visual Studio\Projects\Telerik\12sept2013\FeaturingWithGrisko\obj\Debug\FeaturingWithGrisko.pdb

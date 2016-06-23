@@ -1,0 +1,2 @@
+D:\Visual Studio\Projects\Telerik\DefineClassesAndStuff\constFields\bin\Debug\constFields.exe.config
+D:\Visual Studio\Projects\Telerik\OPP\DefineClassesAndStuff\constFields\bin\Debug\constFields.exe.config
