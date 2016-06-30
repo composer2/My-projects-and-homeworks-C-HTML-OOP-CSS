@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension-Methods-Delegates
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Principles-Part-1", "OOP-Principles-Part-1\OOP-Principles-Part-1.csproj", "{76E191B3-FFF3-43FD-BF9F-399089CEEE0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Principles-Part-2", "OOP-Principles-Part-2\OOP-Principles-Part-2.csproj", "{22800B04-C343-4C0D-A00D-DFD650627AB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{76E191B3-FFF3-43FD-BF9F-399089CEEE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E191B3-FFF3-43FD-BF9F-399089CEEE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E191B3-FFF3-43FD-BF9F-399089CEEE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22800B04-C343-4C0D-A00D-DFD650627AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22800B04-C343-4C0D-A00D-DFD650627AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22800B04-C343-4C0D-A00D-DFD650627AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22800B04-C343-4C0D-A00D-DFD650627AB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

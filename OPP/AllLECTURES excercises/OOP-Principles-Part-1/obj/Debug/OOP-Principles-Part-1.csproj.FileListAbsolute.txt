@@ -1,1 +1,7 @@
 D:\Visual Studio\Projects\Telerik\AllLECTURES\OOP-Principles-Part-1\bin\Debug\OOP-Principles-Part-1.exe.config
+D:\Visual Studio\Projects\GitHub\My-projects-and-homeworks-C-HTML-OOP-CSS\OPP\AllLECTURES excercises\OOP-Principles-Part-1\bin\Debug\OOP-Principles-Part-1.exe.config
+D:\Visual Studio\Projects\GitHub\My-projects-and-homeworks-C-HTML-OOP-CSS\OPP\AllLECTURES excercises\OOP-Principles-Part-1\bin\Debug\OOP-Principles-Part-1.exe
+D:\Visual Studio\Projects\GitHub\My-projects-and-homeworks-C-HTML-OOP-CSS\OPP\AllLECTURES excercises\OOP-Principles-Part-1\bin\Debug\OOP-Principles-Part-1.pdb
+D:\Visual Studio\Projects\GitHub\My-projects-and-homeworks-C-HTML-OOP-CSS\OPP\AllLECTURES excercises\OOP-Principles-Part-1\obj\Debug\OOP-Principles-Part-1.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\GitHub\My-projects-and-homeworks-C-HTML-OOP-CSS\OPP\AllLECTURES excercises\OOP-Principles-Part-1\obj\Debug\OOP-Principles-Part-1.exe
+D:\Visual Studio\Projects\GitHub\My-projects-and-homeworks-C-HTML-OOP-CSS\OPP\AllLECTURES excercises\OOP-Principles-Part-1\obj\Debug\OOP-Principles-Part-1.pdb

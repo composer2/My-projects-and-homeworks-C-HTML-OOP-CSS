@@ -43,8 +43,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Animal.cs" />
+    <Compile Include="Cat.cs" />
+    <Compile Include="Cat2.cs" />
+    <Compile Include="Cheetah.cs" />
+    <Compile Include="Circle.cs" />
+    <Compile Include="Color.cs" />
+    <Compile Include="Creature.cs" />
+    <Compile Include="Dog.cs" />
+    <Compile Include="Dog2.cs" />
+    <Compile Include="FilledRectangle.cs" />
+    <Compile Include="FilledSquare.cs" />
+    <Compile Include="IMovable.cs" />
+    <Compile Include="IResizable.cs" />
+    <Compile Include="IShapecs.cs" />
+    <Compile Include="ISufraceCalculatable.cs" />
+    <Compile Include="Kitten.cs" />
+    <Compile Include="Mammal.cs" />
+    <Compile Include="Mammal2.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="Point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="Rectangle2.cs" />
+    <Compile Include="Shape.cs" />
+    <Compile Include="Square.cs" />
+    <Compile Include="Square2.cs" />
+    <Compile Include="Tomcat.cs" />
+    <Compile Include="Turtle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
