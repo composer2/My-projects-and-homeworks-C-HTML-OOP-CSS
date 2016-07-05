@@ -1,0 +1,202 @@
+function solve(args) {
+    var rows = +args[0],
+        cols = +args[1];
+
+    var board = args.slice(2, rows + 2);
+
+    var moves = args.slice(rows + 2 + 1)
+        .map(moveString => {
+            var parts = moveString.split(" ");
+
+            return {
+                "fromRow": getRowIndex(parts[0][1]),
+                "fromCol": getColumnIndex(parts[0][0]),
+
+                "toRow": getRowIndex(parts[1][1]),
+                "toCol": getColumnIndex(parts[1][0])
+            };
+        });
+
+    moves.forEach(move => {
+        var fromPiece = board[move.fromRow][move.fromCol],
+            toPiece = board[move.toRow][move.toCol];
+
+        if (isQueen(fromPiece)) {
+            if (isEmpty(toPiece) && checkQueen(move)) {
+                console.log("yes");
+            } else {
+                console.log("no");
+            }
+        } else if (isBishop(fromPiece)) {
+            if (isEmpty(toPiece) && checkBishop(move)) {
+                console.log("yes");
+            } else {
+                console.log("no");
+            }
+        } else if (isRook(fromPiece)) {
+            if (isEmpty(toPiece) && checkRook(move)) {
+                console.log("yes");
+            } else {
+                console.log("no");
+            }
+        } else {
+            //empty cell
+            console.log("no");
+        }
+    });
+
+    function getRowIndex(rowName) {
+        return rows - rowName;
+    }
+
+    function getColumnIndex(columnName) {
+        var value = columnName.charCodeAt(0);
+        return value - "a".charCodeAt(0);
+    }
+
+    function isBishop(fromPiece) {
+        return fromPiece === "B";
+    }
+
+    function isRook(fromPiece) {
+        return fromPiece === "R";
+    }
+
+    function isQueen(fromPiece) {
+        return fromPiece === "Q";
+    }
+
+    function isEmpty(fromPiece) {
+        return fromPiece === "-";
+    }
+
+    function checkRook(move) {
+
+        var deltaRow = getDelta(move.fromRow, move.toRow);
+        var deltaCol = getDelta(move.fromCol, move.toCol);
+
+        var col = move.fromCol;
+        var row = move.fromRow;
+
+        if (move.fromRow === move.toRow) {
+            //moves only on colum
+            while (true) {
+                col += deltaCol;
+
+                if (!board[row] || !board[row][col]) {
+                    return false;
+                }
+
+                if (!isEmpty(board[row][col])) {
+                    return false;
+                }
+                if (move.toCol === col) {
+                    return true;
+                }
+
+            }
+        } else if (move.fromCol === move.toCol) {
+            //moves only on row
+            while (true) {
+                row += deltaRow;
+
+                if (!board[row] || !board[row][col]) {
+                    return false;
+                }
+
+                if (!isEmpty(board[row][col])) {
+                    return false;
+                }
+
+                if (move.toRow === row) {
+                    return true;
+                }
+            }
+        } else {
+            //not allowed move
+            return false;
+        }
+    }
+
+    function checkBishop(move) {
+        var deltaRow = getDelta(move.fromRow, move.toRow);
+        var deltaCol = getDelta(move.fromCol, move.toCol);
+
+        var row = move.fromRow;
+        var col = move.fromCol;
+        if (move.fromRow !== move.toRow && move.fromCol !== move.toCol) {
+
+            while (true) {
+                row += deltaRow;
+                col += deltaCol;
+
+                if (!board[row] || !board[row][col]) {
+                    return false;
+                }
+
+                if (!isEmpty(board[row][col])) {
+                    return false;
+                }
+
+                if (move.toRow === row && move.toCol === col) {
+                    return true;
+                }
+            }
+        } else {
+            //move not allowed
+            return false;
+        }
+    }
+
+    function checkQueen(move) {
+        var deltaRow = getDeltaQueen(move.fromRow, move.toRow);
+        var deltaCol = getDeltaQueen(move.fromCol, move.toCol);
+
+        var row = move.fromRow;
+        var col = move.fromCol;
+
+        while (true) {
+            row += deltaRow;
+            col += deltaCol;
+
+            if (!board[row] || !board[row][col]) {
+                return false;
+            }
+
+            if (!isEmpty(board[row][col])) {
+                return false;
+            }
+
+            if (move.toRow === row && move.toCol === col) {
+                return true;
+            }
+        }
+    }
+
+    function getDeltaQueen(from, to) {
+        return (from > to) ? -1 : (from < to) ? +1 : 0;
+    }
+
+    function getDelta(from, to) {
+        return (from > to) ? -1 : +1;
+    }
+}
+
+
+
+solve([
+    '5',
+    '9',
+    '--R------',
+    '------R--',
+    'R--------',
+    '-------R-',
+    '--R------',
+    '6',
+    'c5 e3',
+    'c5 c2',
+    'c5 c1',
+    'h2 e5',
+    'g4 i4',
+    'g4 d1'
+]);
