@@ -55,5 +55,11 @@ namespace FurnitureManufacturer.Models
                 base.Height = value;
             }
         }
+
+        public override string ToString()
+        {
+            return base.ToString() + string.Format(", State: {0}", this.IsConverted ? "Converted" : "Normal");
+        }
+
     }
 }

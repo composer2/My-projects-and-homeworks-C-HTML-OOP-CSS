@@ -79,7 +79,14 @@ namespace FurnitureManufacturer.Models
 
         public string Catalog()
         {
-            throw new NotImplementedException();
+            var sb = new StringBuilder();
+            sb.AppendLine(string.Format("{0} - {1} - {2} {3}", this.Name, this.RegistrationNumber, this.Furnitures.Count != 0 ? this.Furnitures.Count.ToString() : "no", this.Furnitures.Count != 1 ? "furnitures" : "furniture"));
+            //TODO foreach furnitures
+            foreach (var item in this.furnitures.OrderBy(f => f.Price).ThenBy(f => f.Model))
+            {
+                sb.AppendLine(item.ToString());
+            }
+            return sb.ToString().TrimEnd();
         }
 
         public IFurniture Find(string model)

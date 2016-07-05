@@ -17,7 +17,7 @@ namespace FurnitureManufacturer.Models
         {
             get
             {
-                return this.height; 
+                return this.height;
             }
             protected set
             {
@@ -29,21 +29,21 @@ namespace FurnitureManufacturer.Models
             }
         }
 
-        public virtual string Material { get; protected set; }
-        
+
+
         public virtual string Model
         {
             get
             {
                 return this.model;
             }
-           protected set
+            protected set
             {
-                if(string.IsNullOrEmpty(value))
+                if (string.IsNullOrEmpty(value))
                 {
                     throw new ArgumentException("Model cannot be empty or null");
                 }
-                if (value.Length<3)
+                if (value.Length < 3)
                 {
                     throw new ArgumentException("Cannot be less then 3 symbols");
                 }
@@ -67,6 +67,19 @@ namespace FurnitureManufacturer.Models
                 this.price = value;
             }
         }
+        public virtual string Material
+        {
+            get
+            {
+                return this.MaterialType.ToString();
+            }
+        }
         protected MaterialType MaterialType { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("Type: {0}, Model: {1}, Material: {2}, Price: {3}, Height: {4}, ",this.GetType().Name, this.Model, this.Material, this.Price, this.Height);
+        }
+
     }
 }
