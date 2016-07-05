@@ -51,6 +51,7 @@
     <Compile Include="Interfaces\Engine\IRenderer.cs" />
     <Compile Include="Models\AdjustableChair.cs" />
     <Compile Include="Models\Chair.cs" />
+    <Compile Include="Models\Company.cs" />
     <Compile Include="Models\ConvertibleChair.cs" />
     <Compile Include="Models\Furniture.cs" />
     <Compile Include="Models\MaterialType.cs" />

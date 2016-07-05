@@ -67,5 +67,6 @@ namespace FurnitureManufacturer.Models
                 this.price = value;
             }
         }
+        protected MaterialType MaterialType { get; set; }
     }
 }

@@ -12,6 +12,10 @@ namespace FurnitureManufacturer.Models
         private bool isConverted = false;
         private const decimal ConvertedHeight = 0.10m;
 
+        public ConvertibleChair(string model, MaterialType materialType, decimal price, decimal height, int numberOfLegs) : base(model, materialType, price, height, numberOfLegs)
+        {
+        }
+
         public bool IsConverted
         {
             get
