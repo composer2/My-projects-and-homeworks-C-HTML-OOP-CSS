@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Dog.cs" />
     <Compile Include="HoldingPen.cs" />
+    <Compile Include="HoldingPenWithSupplements.cs" />
     <Compile Include="Human.cs" />
     <Compile Include="InfestationRequirements.cs" />
     <Compile Include="Interaction.cs" />
