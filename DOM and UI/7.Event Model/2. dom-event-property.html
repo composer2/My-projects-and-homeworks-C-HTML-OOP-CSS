@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles/styles.css" />
+</head>
+<body>
+    <a href="#" id="1" data-id="button #1" class="button">Button 1</a>
+    <a href="#" id="2"  class="button">Button 2</a>
+    <a href="#" id="1" data-id="button #3" class="button">Button 3</a>
+    <a href="#" id="1"  class="button">Button 4</a>
+
+    <script>
+        var body=document.getElementsByTagName('body')[0];
+
+        body.onload=onBodyLoaded();
+
+        function onBodyLoaded(){
+            var onButtonClick=function(){
+                alert("Button #"+this.id+" clicked!");
+            };
+
+            var buttons=document.getElementsByClassName("button");
+            for(var i=0; i<buttons.length; i++){
+                buttons[i].onclick=onButtonClick;
+            }
+        }
+    </script>
+    
+</body>
+</html>
