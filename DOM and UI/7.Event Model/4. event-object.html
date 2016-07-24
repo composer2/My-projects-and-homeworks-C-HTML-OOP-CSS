@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Click to see event props in the console</h1>
+    <button type="button" class="button" id="button">Click me</button>
+
+    <script>
+        var button=document.getElementById('button');
+        alert('Hello');
+        alert(button);
+        button.addEventListener('click',function(e){
+            if(!e)e=window.event;
+
+            //get mouse coords
+            console.log("Mouse coords:")
+            console.log(e.clientX)
+            console.log(e.clientY)
+            //get event target
+
+            console.log("Event target")
+            var currTarget=e.Target||e.srcElement;
+            console.log(currTarget)
+
+            //get event type
+            console.log("Event type:")
+            console.log(e.type)
+
+            //get event obj properties
+
+            console.log("Whole event Object")
+            console.log(e) 
+        },false);
+    </script>
+</body>
+</html>

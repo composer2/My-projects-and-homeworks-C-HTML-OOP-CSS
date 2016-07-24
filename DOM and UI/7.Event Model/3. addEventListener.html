@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+     <link rel="stylesheet" href="styles/styles.css" />
+</head>
+<body onload="onBodyLoaded()">
+    <h1>JS event module</h1>
+    <ul>      
+    <a href="#" id="1" class="button">Button</a>
+    <a href="#" id="2" class="button">Button</a>
+    <a href="#" id="3" class="button">Button</a>
+    <a href="#" id="4" class="button">Button</a>
+    </ul>
+
+    <script>
+        function onBodyLoaded(){
+            var onButtonClick=function(){
+                alert("Button #"+this.id+" clicked!");
+            };
+            var buttons=document.getElementsByClassName('button')
+            for(var i=0; i<buttons.length; i++){
+                buttons[i].addEventListener('click',onButtonClick,false);
+            }
+        }
+    </script>
+</body>
+</html>

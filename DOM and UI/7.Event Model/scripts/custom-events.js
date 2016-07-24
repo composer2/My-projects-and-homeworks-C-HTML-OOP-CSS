@@ -19,6 +19,6 @@ button.addEventListener('click', function () {
     }
 
     setInterval(function () {
-        counter = 0
-    }, 2000);
+        counter = 0;
+    }, 5000);
 }, false);

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <button type="button" id="button" class="button">CLICK ME</button>
+    <script>
+function addEventListenerCrossBrowser(element,eventType,handler,useCapture) {
+    if (element.addEventListener) {
+        console.log("Modern browser");
+        element.addEventListener(eventType,handler,useCapture);
+    }else if (element.attachEvent) {
+        console.log("IE");
+        element.attachEvent(eventType,handler);
+    } else {
+        console.log("Realy old browser");
+        element['on'+eventType]=eventHandler;
+    }
+}
+
+var button=document.getElementById('button');
+addEventListenerCrossBrowser(button,'click',function () {
+    alert('Clicked');
+},false);
+    </script>
+</body>
+</html>
