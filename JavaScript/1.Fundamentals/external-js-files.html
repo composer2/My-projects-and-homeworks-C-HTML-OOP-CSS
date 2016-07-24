@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>external-js-files</title>
+    <script src="js-files.js">
+        alert("not executed");
+    </script>
+</head>
+<body>
+    <img src="the-ninja.png" onclick="ninjaClicked()" />	
+	<label for="gender-select">Gender: </label>
+	<select id="gender-select" onchange="onGenderChange(event)">							  
+		<option value="male">Male</option>
+		<option value="female">Female</option>
+		<option value="alien">Alien</option>
+	</select>
+    </body>
+</html>
