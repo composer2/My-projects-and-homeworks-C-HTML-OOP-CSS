@@ -1,4 +1,4 @@
-window.onload = function() {
+window.onload = function () {
     var hiddenDiv = document.createElement('div'),
         count = 1000,
         containerDiv = document.createElement('div'),
@@ -13,6 +13,8 @@ window.onload = function() {
     }
     document.getElementById('content').appendChild(finalDiv);
 };
+
+var button = document.getElementById('button-click').addEventListener('click', onStartTestButtonClick, false);
 
 function regularLoop(elements) {
     var i,

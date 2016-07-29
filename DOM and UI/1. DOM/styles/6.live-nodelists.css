@@ -1,0 +1,8 @@
+div {
+			display: inline-block;
+			width: 75px;
+			height: 75px;
+			zoom: 1;
+			border: 1px solid black;
+			border-radius: 5px;
+		}

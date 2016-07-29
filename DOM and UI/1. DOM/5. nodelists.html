@@ -4,17 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
-    <style>
-        div {
-            display: inline-block;
-            *display: inline;
-            width: 75px;
-            height: 75px;
-            zoom: 1;
-            border: 1px solid black;
-            border-radius: 5px;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="styles/5.nodelists.css">
+    <script src="scripts/5.nodelists.js"></script>
 </head>
 
 <body>
@@ -30,16 +21,6 @@
     <div>
         text
     </div>
-
-    <script>
-        var divs = document.getElementsByTagName('div');
-
-        console.log(divs instanceof Array);
-        console.log(divs instanceof HTMLCollection);
-        for (var index in divs) {
-            console.log('divs[' + index + '] = ' + divs[index])
-        }
-    </script>
 
 </body>
 
