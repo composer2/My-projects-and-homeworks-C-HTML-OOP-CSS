@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<div>
+    <div>
+        <div id="selector">
+            <div class="button" id="1">
+            </div>
+            <div class="button" id="2">
+            </div>
+            <div class="button" id="3">
+                <p>Im out of selector scope</p>
+            </div>
+            <div class="button" id="4">
+            </div>
+            <div class="button" id="5">
+            </div>
+            <div class="button" id="6">
+            </div>
+        </div>
+    </div>
+</div>
+
+<body>
+    <script src="..\node_modules\jquery\dist\jquery.js"></script>
+    <script src="task-2.js"></script>
+    <script>
+    var func = solve();
+    func('#selector');
+  </script>
+</body>
+
+</html>
