@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Handlebars.js demos: Conditional expressions</title>
+</head>
+<body>
+	<div id="posts"></div>	
+	<script type="text/x-handlebars-template" id="posts-list-template">
+		<h1>Posts</h1>
+		<div class="posts">
+			{{#each posts}}
+				<div>
+					<span class="number">{{@index}})</span>
+					<strong class="title">{{title}}</strong>
+					<br/>
+					{{#with author}}
+						<strong class="author">{{name}}</strong>
+					{{/with}}
+					<hr/>
+				</div>
+			{{/each}}
+		</div>
+	</script>
+	<script src='..\libs\handlebars.min.js'></script>
+	<script src="built-in-helpers.js"></script>
+</body>
+</html>

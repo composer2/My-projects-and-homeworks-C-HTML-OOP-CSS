@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Handlebars.js demos: Conditional expressions</title>
+</head>
+<body>
+	<div id="courses"></div>	
+	<script type="text/x-handlebars-template" id="course-item-template">
+		{{#list courses}}
+			<strong>{{name}}</strong>
+			<p>{{description}}</p>
+		{{/list}}
+	</script>
+	<script src='..\libs\handlebars.min.js'></script>
+	<script src="custom-helpers.js"></script>
+</body>
+</html>

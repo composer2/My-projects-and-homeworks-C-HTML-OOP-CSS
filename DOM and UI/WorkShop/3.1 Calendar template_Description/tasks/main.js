@@ -1,7 +1,7 @@
 window.onload = function () {
     var data = {
-        year: 2015,
-        month: 'August',
+        year: 2016,
+        month: 'March',
         days: [{
             day: 3,
             events: [{
