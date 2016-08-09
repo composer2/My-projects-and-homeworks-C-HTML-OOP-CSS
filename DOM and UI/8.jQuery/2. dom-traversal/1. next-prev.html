@@ -16,19 +16,6 @@
         <strong>Messages: </strong>
         <ul id="messages-list"></ul>
     </div>
-    <script type="text/javascript">
-        function printMessage(text) {
-            $("#messages-list").append('<li>Message: ' + text + '</li>');
-        }
-
-        var $specialItem = $(".special");
-        printMessage($specialItem.text());
-        printMessage($specialItem.next().text());
-        printMessage($specialItem.prev().text());
-
-        //undefined, $specialItem is not a DOM element and has no method nextSibling
-        printMessage($specialItem.nextSibling);
-
-    </script>
+    <script src="1. next-prev.js" type="text/javascript"></script>
 </body>
 </html>

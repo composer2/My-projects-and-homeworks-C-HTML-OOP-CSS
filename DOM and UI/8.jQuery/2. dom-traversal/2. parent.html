@@ -21,16 +21,6 @@
         <ul id="messages-list"></ul>
     </div>
 
-    <script type="text/javascript">
-        function printMessage(text) {
-            $("#messages-list").append('<li>' + text + '</li>');
-        }
-
-        var $specialItem = $(".special").first();
-        printMessage("parent id: " + $specialItem.parent().attr("id"));
-        printMessage("div id: " + $specialItem.parents("div").attr("id"));
-        printMessage("#wrapper id: " + $specialItem.parents("#wrapper").attr("id"));
-        printMessage("#items-list children count: " + $("#items-list").children().length);
-    </script>
+    <script src="2. parent.js" type="text/javascript"></script>
 </body>
 </html>

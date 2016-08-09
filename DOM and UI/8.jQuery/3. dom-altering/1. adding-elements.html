@@ -6,21 +6,6 @@
 </head>
 <body>
     <div id="holder"></div>
-    <script type="text/javascript">
-        var $holder,
-            $list,
-            i,
-            count = 15;
-
-        $holder = $("#holder");
-        $holder.append("<h1>Header</h1>");
-
-        $list = $('<ul/>');
-        for (i = 0; i < count; i += 1) {
-            $('<li>' + i + '</li>').appendTo($list);
-        }
-
-        $holder.prepend($list);
-    </script>
+    <script src="1. adding-elements.js" type="text/javascript"></script>
 </body>
 </html>
