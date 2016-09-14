@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Forum</title>
+	<link rel="stylesheet" href="./main.css">
+</head>
+
+<body>
+	<div id="forum-container"></div>
+	<script id="calendar-template" type='text/x-handlebars-template'>
+	{{#data}}
+	<h1>{{title}}</h1>
+	<ul>
+		{{#posts}}
+		<li>
+			<div class="post">
+				<p class="author">
+					{{#if author}}
+					<a class="user" href="/user/{{author}}">{{author}}</a> 
+					{{else}}
+					<a class="anonymous">Anonymous</a> 
+					{{/if}}
+				</p>
+				<pre class="content">{{{text}}}</pre>
+			</div>
+			<ul>
+			{{#comments}}
+				{{#unless deleted}}
+				<li>
+					<div class="comment">
+						<p class="author">
+						{{#if author}}
+						<a class="user" href="/user/{{author}}">{{author}}</a> 
+						{{else}}
+						<a class="anonymous">Anonymous</a>
+						{{/if}}
+						</p>
+						<pre class="content">{{{text}}}</pre>
+					</div>
+				</li>			
+				{{/unless}}
+			{{/comments}}
+			</ul>
+		</li>
+		{{/posts}}
+	</ul>
+	{{/data}}
+	</script>
+	<script src="./handlebars-v4.0.5.js"></script>
+	<script src="./solution.js"></script>
+	<script src="./load.js"></script>
+</body>
+
+</html>
