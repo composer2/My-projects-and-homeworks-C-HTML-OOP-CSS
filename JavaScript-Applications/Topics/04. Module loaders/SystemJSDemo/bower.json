@@ -1,0 +1,13 @@
+{
+  "name": "systemjs-demo",
+  "description": "Module loaders with SystemJS",
+  "main": "index.js",
+  "authors": [
+    "composer2 <composer2be@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/composer2/My-projects-and-homeworks-C-HTML-OOP-CSS",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}

@@ -1,0 +1,40 @@
+1. npm init - 'creating package JSON'
+2. npm install systemjs --save -'will install systemjs and 
+also save info into the depedencies. When someones recieve the project need to run npm install'
+3. npm install systemjs-plugin-babel --save -'runs the import- export form es6 to es5'
+
+4. into the index.html we need one script src
+<script src="./system.js"></script>
+
+5.we need to config the systemjs 
+<script>
+SystemJs.config({
+
+'transpiler':'plugin-babel',
+
+//look for modules to load 
+//"something":"path"
+
+'map':{
+'plugin-babel':'./node_modules/systemjs-plugin-babel/plugin-babel.js',
+'systemjs-babel-build':'./node_modules/systemjs-plugin-babel/systemjs-babel-browser.js',
+'main':'./main.js'
+}
+
+});
+
+//all modules to be loaded to / from main.js
+ System.import('main');
+
+</script>
+
+
+6. adding jquery to the project
+6.1. npm install -g bower 'install bower'
+6.2. bower init 'will create bower.json'
+6.3. bower install jquery --save 'will install jquery and add to bower.json dependencies'
+6.4. add the jquery to the system js config: 'jquery':'./bower_components/jquery/dist/jquery.js'
+6.5. when needed in a file just write: import 'jquery'
+
+
+
